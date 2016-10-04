@@ -1,10 +1,12 @@
-## SF DAT 26 Course Repository
+## SF DAT 28 Course Repository
 
 Course materials for General Assembly's Data Science course in San Francisco, CA (10/4/16 - 12/13/16).
 
 **Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534) 
+
 **Teaching Assistants:**
-[Geroge McIntire](https://www.linkedin.com/in/georgemcintire)
+[George McIntire](https://www.linkedin.com/in/georgemcintire)
+[Cari Levay](https://www.linkedin.com/in/carilevay)
 
 **Course Times**
 
@@ -26,7 +28,7 @@ Tuesday | Thursday | Project Milestone | HW
 10/4: Introduction / Expectations / Intro to Data Science | 10/6: Pandas
 10/11: 10/13: APIs / Web Scraping 101 | 10/15: Intro to Machine Learning / KNN | | HW 1 Assigned (W)
 10/18: Model Evaluation / Linear Regression Part 1 | 10/20: Linear Regression Part 2 / Logistic Regression | Three Potential Project Ideas (W) | 
-10/25: Natural Language Processing | 10/27: Naive Bayes Classification  /  ||HW 1 Due (W)
+10/25: Natural Language Processing | 10/27: Naive Bayes Classification  ||HW 1 Due (W)
 11/1: Advanced Sklearn (Pipeline and Feaure Unions) | 11/3: Review || 
 11/8: Decision Trees  | 11/10: Ensembling Techniques | |HW 2 Assigned (W)
 11/15: Dimension Reduction | 11/17: Clustering / Topic Modelling | First Draft Due (W) | 
