@@ -1,0 +1,2208 @@
+game_id,minute,player,team1score,team2score
+1,18,Schiavio,1,0
+1,20,Orsi,2,0
+1,29,Schiavio,3,0
+1,57,Donelli,3,1
+1,63,Ferrari,4,1
+1,64,Schiavio,5,1
+1,69,Orsi,6,1
+1,90+,Meazza,7,1
+2,18,Nicolas,0,1
+2,44,Sindelar,1,1
+2,93,Schall,2,1
+2,109,BiÄan,3,1
+2,118,Verriest [p.],3,2
+3,25,Kobierski,1,0
+3,29,Voorhoof,1,1
+3,43,Voorhoof,1,2
+3,49,Siffling,2,2
+3,66,Conen,3,2
+3,70,Conen,4,2
+3,87,Conen,5,2
+4,11,Dobai,0,1
+4,50,PuÄ,1,1
+4,67,NejedlÃ½,2,1
+5,7,Kielholz,1,0
+5,19,Smit,1,1
+5,43,Kielholz,2,1
+5,69,Abegglen,3,1
+5,84,Vente,3,2
+6,4,Belis,0,1
+6,9,Jonasson,1,1
+6,48,Galateo,1,2
+6,67,Jonasson,2,2
+6,79,Kroon,3,2
+7,18,Iraragorri [p.],1,0
+7,25,LÃ¡ngara,2,0
+7,29,LÃ¡ngara,3,0
+7,55,LeÃ´nidas,3,1
+8,11,Teleki,1,0
+8,31,Toldi,2,0
+8,35,Fawzi,2,1
+8,39,Fawzi,2,2
+8,53,Vincze,3,2
+8,61,Toldi,4,2
+9,8,Horvath,1,0
+9,51,Zischek,2,0
+9,60,SÃ¡rosi [p.],2,1
+10,18,Kielholz,0,1
+10,24,Svoboda,1,1
+10,49,Sobotka,2,1
+10,78,JÃ¤ggi,2,2
+10,82,NejedlÃ½,3,2
+11,60,Hohmann,1,0
+11,63,Hohmann,2,0
+11,82,Dunker,2,1
+12,30,Regueiro,0,1
+12,44,Ferrari,1,1
+13,11,Meazza,1,0
+14,19,Guaita,1,0
+15,21,NejedlÃ½,1,0
+15,62,Noack,1,1
+15,69,NejedlÃ½,2,1
+15,80,NejedlÃ½,3,1
+16,1,Lehner,1,0
+16,27,Conen,2,0
+16,28,Horvath,2,1
+16,42,Lehner,3,1
+16,54,Sesta,3,2
+17,71,PuÄ,0,1
+17,81,Orsi,1,1
+17,95,Schiavio,2,1
+18,17,Simonsson,1,0
+18,58,Liedholm [p.],2,0
+18,64,Simonsson,3,0
+19,3,Corbatta,0,1
+19,33,Rahn,1,1
+19,42,Seeler,2,1
+19,79,Rahn,3,1
+20,20,Cush,1,0
+21,20,Amarilla,0,1
+21,24,Fontaine,1,1
+21,30,Fontaine,2,1
+21,44,Amarilla [p.],2,2
+21,50,Romero,2,3
+21,52,Piantoni,3,3
+21,61,Wisnieski,4,3
+21,67,Fontaine,5,3
+21,70,Kopa,6,3
+21,83,Vincent,7,3
+22,6,PetakoviÄ,1,0
+22,49,Murray,1,1
+23,4,Bozsik,1,0
+23,26,J. Charles,1,1
+24,13,Simonjan,0,1
+24,56,A. Ivanov,0,2
+24,65,Kevan,1,2
+24,84,Finney [p.],2,2
+25,38,Mazola,1,0
+25,49,NÃ­lton Santos,2,0
+25,85,Mazola,3,0
+26,24,DvoÅÃ¡k [p.],0,1
+26,42,ZikÃ¡n,0,2
+26,60,SchÃ¤fer,1,2
+26,70,Rahn,2,2
+27,4,McParland,0,1
+27,37,Corbatta [p.],1,1
+27,56,MenÃ©ndez,2,1
+27,60,Avio,3,1
+28,3,AgÃ¼ero,1,0
+28,32,Mudie,1,1
+28,44,Re,2,1
+28,74,Parodi,3,1
+28,76,Collins,3,2
+29,5,Fontaine,0,1
+29,16,PetakoviÄ,1,1
+29,65,VeselinoviÄ,2,1
+29,85,Fontaine,2,2
+29,87,VeselinoviÄ,3,2
+30,32,I. Allchurch,1,0
+30,89,Belmonte,1,1
+32,15,A. Ivanov,1,0
+32,62,V. Ivanov,2,0
+33,34,Hamrin,1,0
+33,55,Hamrin,2,0
+33,78,Tichy,2,1
+35,19,McParland,0,1
+35,21,Rahn,1,1
+35,60,McParland,1,2
+35,79,Seeler,2,2
+36,8,DvoÅÃ¡k,1,0
+36,17,ZikÃ¡n,2,0
+36,40,ZikÃ¡n,3,0
+36,65,Corbatta [p.],3,1
+36,69,Feureisl,4,1
+36,82,Hovorka,5,1
+36,89,Hovorka,6,1
+37,22,Kopa,1,0
+37,45,Fontaine,2,0
+37,66,Baird,2,1
+38,12,OgnjanoviÄ,1,0
+38,21,Parodi,1,1
+38,29,VeselinoviÄ,2,1
+38,49,AgÃ¼ero,2,2
+38,74,Rajkov,3,2
+38,80,Romero,3,3
+39,19,Tichy,1,0
+39,46,Tichy,2,0
+39,54,SÃ¡ndor,3,0
+39,60,Bencsics,4,0
+40,3,VavÃ¡,1,0
+40,77,VavÃ¡,2,0
+41,15,Koller,0,1
+41,56,Haynes,1,1
+41,71,KÃ¶rner,1,2
+41,74,Kevan,2,2
+42,19,ZikÃ¡n,0,1
+42,44,McParland,1,1
+42,100,McParland,2,1
+43,33,Tichy,0,1
+43,55,I. Allchurch,1,1
+43,76,Medwin,2,1
+44,68,Ilâin,1,0
+45,48,Hamrin,1,0
+45,87,Simonsson,2,0
+46,12,Rahn,1,0
+47,43,Wisnieski,1,0
+47,55,Fontaine,2,0
+47,63,Fontaine,3,0
+47,70,Piantoni,4,0
+48,73,PelÃ©,1,0
+49,24,SchÃ¤fer,0,1
+49,32,Skoglund,1,1
+49,81,Gren,2,1
+49,88,Hamrin,3,1
+50,2,VavÃ¡,1,0
+50,9,Fontaine,1,1
+50,39,Didi,2,1
+50,53,PelÃ©,3,1
+50,64,PelÃ©,4,1
+50,76,PelÃ©,5,1
+50,83,Piantoni,5,2
+51,16,Fontaine,1,0
+51,18,Cieslarczyk,1,1
+51,27,Kopa [p.],2,1
+51,36,Fontaine,3,1
+51,50,Douis,4,1
+51,52,Rahn,4,2
+51,78,Fontaine,5,2
+51,84,SchÃ¤fer,5,3
+51,89,Fontaine,6,3
+52,3,Liedholm,0,1
+52,9,VavÃ¡,1,1
+52,32,VavÃ¡,2,1
+52,55,PelÃ©,3,1
+52,68,Zagallo,4,1
+52,80,Simonsson,4,2
+52,90,PelÃ©,5,2
+53,62,Vandenbergh,0,1
+55,34,Balâ,0,1
+55,75,SÃ³crates,1,1
+55,88,Ãder,2,1
+57,4,Nyilasi,1,0
+57,11,PÃ¶lÃ¶skei,2,0
+57,23,Fazekas,3,0
+57,50,TÃ³th,4,0
+57,54,Fazekas,5,0
+57,64,RamÃ­rez Zapata,5,1
+57,69,L. Kiss,6,1
+57,72,Szentes,7,1
+57,73,L. Kiss,8,1
+57,76,L. Kiss,9,1
+57,83,Nyilasi,0,1
+58,18,Dalglish,1,0
+58,29,Wark,2,0
+58,32,Wark,3,0
+58,54,Sumner,3,1
+58,64,Wooddin,3,2
+58,73,Robertson,4,2
+58,79,Archibald,5,2
+59,54,Madjer,0,1
+59,67,Rummenigge,1,1
+59,68,Belloumi,1,2
+60,1,Robson,1,0
+60,24,Soler,1,1
+60,67,Robson,2,1
+60,83,Mariner,3,1
+61,7,Zelaya,0,1
+61,65,LÃ³pez Ufarte [p.],1,1
+62,21,Schachner,0,1
+63,21,Panenka [p.],1,0
+63,57,Al-Dakhil,1,1
+65,18,Conti,1,0
+65,83,DÃ­az,1,1
+66,26,Bertoni,1,0
+66,28,Maradona,2,0
+66,57,Maradona,3,0
+66,60,Ardiles,4,0
+66,76,PÃ¶lÃ¶skei,4,1
+67,18,Narey,0,1
+67,33,Zico,1,1
+67,48,Oscar,2,1
+67,63,Ãder,3,1
+67,87,FalcÃ£o,4,1
+69,19,Coeck,1,0
+70,24,Gavrilov,1,0
+70,48,Blokhin,2,0
+70,68,Baltacha,3,0
+71,9,Rummenigge,1,0
+71,57,Rummenigge,2,0
+71,66,Rummenigge,3,0
+71,81,Reinders,4,0
+71,90,Moscoso,4,1
+72,62,Francis,1,0
+72,66,BarmoÅ¡ [o.g.],2,0
+73,10,Gudelj,0,1
+73,14,Juanito [p.],1,1
+73,66,Saura,2,1
+74,55,Schachner,0,1
+74,67,Krankl,0,2
+75,31,Genghini,1,0
+75,43,Platini,2,0
+75,48,Six,3,0
+75,75,Al-Buloushi,3,1
+75,89,Bossis,4,1
+76,9,Armstrong,0,1
+76,60,Laing,1,1
+77,55,Smolarek,1,0
+77,58,Lato,2,0
+77,61,Boniek,3,0
+77,68,Buncol,4,0
+77,76,CioÅek,5,0
+77,83,La Rosa,5,1
+78,27,Varga,0,1
+78,76,Czerniatynski,1,1
+79,15,Jordan,0,1
+79,59,Chivadze,1,1
+79,84,Shengelia,2,1
+79,86,Souness,2,2
+80,60,Graziani,1,0
+80,61,MâBida,1,1
+81,23,Passarella [p.],1,0
+81,54,Bertoni,2,0
+82,28,Zico,1,0
+82,31,Zico,2,0
+82,55,FalcÃ£o,3,0
+82,70,Serginho,4,0
+83,7,Assad,1,0
+83,31,Assad,2,0
+83,35,Bensaoula,3,0
+83,59,Neira [p.],3,1
+83,73,Letelier,3,2
+84,66,Six,1,0
+84,84,Panenka [p.],1,1
+85,88,PetroviÄ [p.],0,1
+86,10,Hrubesch,1,0
+87,27,Francis,1,0
+88,47,Armstrong,1,0
+89,39,Genghini,0,1
+90,4,Boniek,1,0
+90,26,Boniek,2,0
+90,53,Boniek,3,0
+91,55,Tardelli,1,0
+91,67,Cabrini,2,0
+91,83,Passarella,2,1
+93,27,Hamilton,0,1
+93,50,Pezzey,1,1
+93,68,Hintermaier,2,1
+93,75,Hamilton,2,2
+94,48,Oganesian,0,1
+95,11,Zico,0,1
+95,66,Serginho,0,2
+95,75,JÃºnior,0,3
+95,89,RamÃ³n DÃ­az,1,3
+96,50,Littbarski,1,0
+96,75,Fischer,2,0
+96,82,Zamora,2,1
+97,33,Giresse,1,0
+97,46,Rocheteau,2,0
+97,68,Rocheteau,3,0
+97,75,Armstrong,3,1
+97,80,Giresse,4,1
+99,5,Rossi,1,0
+99,12,SÃ³crates,1,1
+99,25,Rossi,2,1
+99,68,FalcÃ£o,2,2
+99,74,Rossi,3,2
+101,22,Rossi,0,1
+101,73,Rossi,0,2
+102,17,Littbarski,1,0
+102,26,Platini [p.],1,1
+102,92,TrÃ©sor,1,2
+102,98,Giresse,1,3
+102,102,Rummenigge,2,3
+102,108,Fischer,3,3
+103,14,Girard,0,1
+103,42,Szarmach,1,1
+103,45,Majewski,2,1
+103,47,Kupcewicz,3,1
+103,75,Couriol,3,2
+104,57,Rossi,1,0
+104,69,Tardelli,2,0
+104,81,Altobelli,3,0
+104,83,Breitner,3,1
+106,15,Held,1,0
+106,20,Haller,2,0
+106,39,Beckenbauer,3,0
+106,52,Beckenbauer,4,0
+106,77,Haller [p.],5,0
+107,15,PelÃ©,1,0
+107,63,Garrincha,2,0
+108,31,Malofeev,1,0
+108,33,Banishevskij,2,0
+108,88,Malofeev,3,0
+109,48,Borja,0,1
+109,62,Hausser,1,1
+110,65,Artime,1,0
+110,71,Pirri,1,1
+110,77,Artime,2,1
+111,1,JosÃ© Augusto,1,0
+111,60,Bene,1,1
+111,67,JosÃ© Augusto,2,1
+111,90,Torres,3,1
+112,8,Mazzola,1,0
+112,88,Barison,2,0
+113,15,De Bourgoing [p.],0,1
+113,26,Rocha,1,1
+113,31,CortÃ©s,2,1
+114,28,Quentin,0,1
+114,57,Sanchis,1,1
+114,75,Amancio,2,1
+115,2,Bene,1,0
+115,14,TostÃ£o,1,1
+115,64,Farkas,2,1
+115,73,MÃ©szÃ¶ly [p.],3,1
+116,26,Marcos [p.],0,1
+116,88,Park Seung-jin,1,1
+118,7,Vutsov [o.g.],1,0
+118,38,EusÃ©bio,2,0
+118,81,Torres,3,0
+119,57,Chislenko,1,0
+120,37,B. Charlton,1,0
+120,75,Hunt,2,0
+122,53,Artime,1,0
+122,81,Onega,2,0
+123,15,SimÃµes,1,0
+123,27,EusÃ©bio,2,0
+123,70,Rildo,2,1
+123,85,EusÃ©bio,3,1
+124,42,Park Doo-ik,1,0
+125,38,Hunt,1,0
+125,75,Hunt,2,0
+126,22,FustÃ©,0,1
+126,38,Emmerich,1,1
+126,84,Seeler,2,1
+127,15,Asparukhov,0,1
+127,43,Davidov [o.g.],1,1
+127,45,MÃ©szÃ¶ly,2,1
+127,54,Bene,3,1
+128,28,Porkujan,1,0
+128,32,Marcos,1,1
+128,85,Porkujan,2,1
+129,11,Haller,1,0
+129,70,Beckenbauer,2,0
+129,75,Seeler,3,0
+129,83,Haller,4,0
+130,1,Park Seung-jin,0,1
+130,22,Lee Dong-woon,0,2
+130,25,Yang Sung-kook,0,3
+130,27,EusÃ©bio,1,3
+130,43,EusÃ©bio [p.],2,3
+130,56,EusÃ©bio,3,3
+130,59,EusÃ©bio [p.],4,3
+130,80,JosÃ© Augusto,5,3
+131,5,Chislenko,1,0
+131,46,Porkujan,2,0
+131,57,Bene,2,1
+132,78,Hurst,1,0
+133,43,Haller,1,0
+133,67,Beckenbauer,2,0
+133,88,Porkujan,2,1
+134,30,B. Charlton,1,0
+134,80,B. Charlton,2,0
+134,82,EusÃ©bio [p.],2,1
+135,12,EusÃ©bio [p.],1,0
+135,43,Malofeev,1,1
+135,89,Torres,2,1
+136,12,Haller,0,1
+136,18,Hurst,1,1
+136,78,Peters,2,1
+136,89,Weber,2,2
+136,101,Hurst,3,2
+136,120,Hurst,4,2
+201,19,L. Laurent,1,0
+201,40,Langiller,2,0
+201,42,Maschinot,3,0
+201,70,CarreÃ±o,3,1
+201,87,Maschinot,4,1
+202,41,McGhee,1,0
+202,44,Florie,2,0
+202,88,Patenaude,3,0
+203,21,TirnaniÄ,1,0
+203,30,Bek,2,0
+203,62,Preguinho,2,1
+204,1,DeÅu,1,0
+204,75,Souza Ferreira,1,1
+204,79,Stanciu,2,1
+204,89,Kovacs,3,1
+205,81,Monti,1,0
+206,3,Subiabre,1,0
+206,51,Subiabre,2,0
+206,65,Vidal,3,0
+207,60,Bek,1,0
+207,65,MarjanoviÄ,2,0
+207,67,Bek,3,0
+207,85,VujadinoviÄ,4,0
+208,10,Patenaude,1,0
+208,15,Patenaude,2,0
+208,50,Patenaude,3,0
+209,60,Castro,1,0
+210,64,Subiabre,1,0
+211,8,StÃ¡bile,1,0
+211,10,ZumelzÃº,2,0
+211,17,StÃ¡bile,3,0
+211,37,M. Rosas [p.],3,1
+211,53,Varallo,4,1
+211,55,ZumelzÃº,5,1
+211,72,M. Rosas,5,2
+211,78,GayÃ³n,5,3
+211,80,StÃ¡bile,6,3
+212,37,Moderato,1,0
+212,57,Preguinho,2,0
+212,73,Moderato,3,0
+212,83,Preguinho,4,0
+213,40,Vargas PeÃ±a,1,0
+214,7,Dorado,1,0
+214,26,Scarone,2,0
+214,31,Anselmo,3,0
+214,35,Cea,4,0
+215,12,StÃ¡bile,1,0
+215,14,StÃ¡bile,2,0
+215,15,Subiabre,2,1
+215,51,M. Evaristo,3,1
+216,20,Monti,1,0
+216,56,Scopelli,2,0
+216,69,StÃ¡bile,3,0
+216,80,Peucelle,4,0
+216,85,Peucelle,5,0
+216,87,StÃ¡bile,6,0
+216,89,Brown,6,1
+217,4,VujadinoviÄ,0,1
+217,18,Cea,1,1
+217,20,Anselmo,2,1
+217,31,Anselmo,3,1
+217,61,Iriarte,4,1
+217,67,Cea,5,1
+217,72,Cea,6,1
+218,12,Dorado,1,0
+218,20,Peucelle,1,1
+218,37,StÃ¡bile,1,2
+218,57,Cea,2,2
+218,68,Iriarte,3,2
+218,89,Castro,4,2
+219,43,Altobelli,0,1
+219,85,Sirakov,1,1
+220,62,SÃ³crates,0,1
+221,79,Papin,0,1
+222,6,Valdano,1,0
+222,18,Ruggeri,2,0
+222,46,Valdano,3,0
+222,73,Park Chang-sun,3,1
+223,2,Yakovenko,1,0
+223,4,Alejnikov,2,0
+223,24,Belanov [p.],3,0
+223,66,Yaremchuk,4,0
+223,73,Dajka [o.g.],5,0
+223,80,Rodionov,6,0
+225,23,Quirarte,0,1
+225,39,Hugo SÃ¡nchez,0,2
+225,45,Vandenbergh,1,2
+226,6,Whiteside,0,1
+226,59,Zidane,1,1
+227,76,Carlos Manuel,1,0
+228,35,Romerito,1,0
+229,4,Alzamendi,1,0
+229,84,Allofs,1,1
+230,57,ElkjÃ¦r Larsen,0,1
+231,6,Altobelli [p.],1,0
+231,34,Maradona,1,1
+232,53,Rats,0,1
+232,60,FernÃ¡ndez,1,1
+233,11,Getov,0,1
+233,70,Kim Jong-boo,1,1
+234,2,EsterhÃ¡zy,1,0
+234,75,DÃ©tÃ¡ri,2,0
+235,66,Careca,1,0
+237,3,Flores,1,0
+237,85,Romerito,1,1
+238,2,ButragueÃ±o,0,1
+238,18,Julio Salinas,0,2
+238,47,Clarke,1,2
+239,68,Smolarek,1,0
+240,16,Scifo,0,1
+240,21,Claesen [p.],0,2
+240,59,Radhi,1,2
+241,18,Strachan,0,1
+241,23,VÃ¶ller,1,1
+241,49,Allofs,2,1
+242,11,ElkjÃ¦r Larsen,1,0
+242,41,Lerby,2,0
+242,45+,Francescoli [p.],2,1
+242,52,Laudrup,3,1
+242,67,ElkjÃ¦r Larsen,4,1
+242,80,ElkjÃ¦r Larsen,5,1
+242,88,J. Olsen,6,1
+243,29,Stopyra,0,1
+243,62,Tigana,0,2
+243,84,Rocheteau,0,3
+244,58,Blokhin,1,0
+244,74,Zavarov,2,0
+245,18,Altobelli,0,1
+245,62,Choi Soon-ho,1,1
+245,73,Altobelli,1,2
+245,82,Cho Kwang-rae [o.g.],1,3
+245,89,Huh Jung-moo,2,3
+246,3,Valdano,1,0
+246,76,Burruchaga,2,0
+247,30,Vercauteren,0,1
+247,50,CabaÃ±as,1,1
+247,59,Veyt,1,2
+247,76,CabaÃ±as,2,2
+248,54,Quirarte,0,1
+249,9,Lineker,1,0
+249,14,Lineker,2,0
+249,34,Lineker,3,0
+250,19,KhaÃ¯ri,0,1
+250,26,KhaÃ¯ri,0,2
+250,62,Krimau,0,3
+250,80,Diamantino,1,3
+251,15,Careca,0,1
+251,42,Josimar,0,2
+251,87,Careca,0,3
+252,15,CalderÃ©,0,1
+252,68,CalderÃ©,0,2
+252,70,Eloy,0,3
+253,43,J. Olsen [p.],1,0
+253,62,Eriksen,2,0
+255,34,Negrete,1,0
+255,61,ServÃ­n,2,0
+256,27,Belanov,1,0
+256,54,Scifo,1,1
+256,69,Belanov,2,1
+256,77,Ceulemans,2,2
+256,102,Demol,2,3
+256,108,Claesen,2,4
+256,111,Belanov [p.],3,4
+257,30,SÃ³crates [p.],1,0
+257,55,Josimar,2,0
+257,79,Edinho,3,0
+257,83,Careca [p.],4,0
+258,42,Pasculli,1,0
+259,15,Platini,0,1
+259,57,Stopyra,0,2
+260,87,MatthÃ¤us,0,1
+261,32,Lineker,1,0
+261,56,Beardsley,2,0
+261,72,Lineker,3,0
+262,33,J. Olsen [p.],1,0
+262,43,ButragueÃ±o,1,1
+262,57,ButragueÃ±o,1,2
+262,68,Goicoechea [p.],1,3
+262,80,ButragueÃ±o,1,4
+262,89,ButragueÃ±o [p.],1,5
+263,17,Careca,1,0
+263,41,Platini,1,1
+265,51,Maradona,1,0
+265,54,Maradona,2,0
+265,80,Lineker,2,1
+266,35,Ceulemans,0,1
+266,85,SeÃ±or,1,1
+267,9,Brehme,0,1
+267,90+,VÃ¶ller,0,2
+268,51,Maradona,1,0
+268,63,Maradona,2,0
+269,11,Ceulemans,0,1
+269,27,Ferreri,1,1
+269,43,Papin,2,1
+269,73,Claesen,2,2
+269,104,Genghini,3,2
+269,111,AmorÃ³s [p.],4,2
+270,23,Brown,1,0
+270,56,Valdano,2,0
+270,74,Rummenigge,2,1
+270,81,VÃ¶ller,2,2
+270,84,Burruchaga,3,2
+271,29,Gauchel,0,1
+271,43,Abegglen,1,1
+272,2,Ferraris,1,0
+272,83,Brustad,1,1
+272,94,Piola,2,1
+273,1,Veinante,1,0
+273,11,Nicolas,2,0
+273,19,Isemborghs,2,1
+273,69,Nicolas,3,1
+274,14,Kohut,1,0
+274,16,Toldi,2,0
+274,25,G. SÃ¡rosi,3,0
+274,30,ZsengellÃ©r,4,0
+274,67,ZsengellÃ©r,5,0
+274,88,G. SÃ¡rosi,6,0
+275,35,Bindea,0,1
+275,44,Socorro,1,1
+275,69,MagriÃ±Ã¡,2,1
+275,88,Baratki,2,2
+275,103,Socorro,3,2
+275,105,Dobai,3,3
+276,18,LeÃ´nidas,1,0
+276,23,Scherfke [p.],1,1
+276,25,Romeu,2,1
+276,44,PerÃ¡cio,3,1
+276,53,Wilimowski,3,2
+276,59,Wilimowski,3,3
+276,71,PerÃ¡cio,4,3
+276,89,Wilimowski,4,4
+276,93,LeÃ´nidas,5,4
+276,104,LeÃ´nidas,6,4
+276,118,Wilimowski,6,5
+277,93,KoÅ¡Å¥Ã¡lek,1,0
+277,111,Zeman,2,0
+277,118,NejedlÃ½,3,0
+278,8,Hahnemann,0,1
+278,22,LÃ¶rtscher [o.g.],0,2
+278,42,Wallaschek,1,2
+278,64,Bickel,2,2
+278,75,Abegglen,3,2
+278,78,Abegglen,4,2
+279,35,Dobai,0,1
+279,51,Socorro,1,1
+279,57,FernÃ¡ndez,2,1
+280,9,Colaussi,1,0
+280,10,Heisserer,1,1
+280,51,Piola,2,1
+280,72,Piola,3,1
+281,30,LeÃ´nidas,1,0
+281,65,NejedlÃ½ [p.],1,1
+282,40,G. SÃ¡rosi,1,0
+282,90,ZsengellÃ©r,2,0
+283,9,H. Andersson,1,0
+283,22,WetterstrÃ¶m,2,0
+283,37,WetterstrÃ¶m,3,0
+283,44,WetterstrÃ¶m,4,0
+283,80,Keller,5,0
+283,81,H. Andersson,6,0
+283,84,Nyberg,7,0
+283,89,H. Andersson,8,0
+284,25,KopeckÃ½,0,1
+284,57,LeÃ´nidas,1,1
+284,62,Roberto,2,1
+285,51,Colaussi,1,0
+285,60,Meazza [p.],2,0
+285,87,Romeu,2,1
+286,1,Nyberg,0,1
+286,19,Jacobsson [o.g.],1,1
+286,37,Titkos,2,1
+286,39,ZsengellÃ©r,3,1
+286,65,G. SÃ¡rosi,4,1
+286,85,ZsengellÃ©r,5,1
+287,28,Jonasson,0,1
+287,38,Nyberg,0,2
+287,44,Romeu,1,2
+287,63,LeÃ´nidas,2,2
+287,74,LeÃ´nidas,3,2
+287,80,PerÃ¡cio,4,2
+288,6,Colaussi,1,0
+288,8,Titkos,1,1
+288,16,Piola,2,1
+288,35,Colaussi,3,1
+288,70,G. SÃ¡rosi,3,2
+288,82,Piola,4,2
+289,30,Ademir,1,0
+289,65,Jair,2,0
+289,71,Baltazar,3,0
+289,79,Ademir,4,0
+290,39,Mortensen,1,0
+290,51,Mannion,2,0
+291,17,Pariani,0,1
+291,81,Igoa,1,1
+291,83,Basora,2,1
+291,89,Zarra,3,1
+292,7,Carapellese,0,1
+292,25,Jeppson,1,1
+292,33,Andersson,2,1
+292,68,Jeppson,3,1
+292,75,Muccinelli,3,2
+293,59,MitiÄ,1,0
+293,70,TomaÅ¡eviÄ,2,0
+293,84,Ognjanov,3,0
+294,3,Alfredo,1,0
+294,17,Fatton,1,1
+294,32,Baltazar,2,1
+294,88,Fatton,2,2
+295,20,Bobek,1,0
+295,23,Å½eljko Äajkovski,2,0
+295,51,Å½eljko Äajkovski,3,0
+295,81,TomaÅ¡eviÄ,4,0
+295,89,Ortiz [p.],4,1
+296,17,Basora,1,0
+296,30,Zarra,2,0
+297,17,Sundqvist,1,0
+297,25,PalmÃ©r,2,0
+297,34,LÃ³pez,2,1
+297,74,LÃ³pez Fretes,2,2
+298,38,Gaetjens,1,0
+299,4,Ademir,1,0
+299,69,Zizinho,2,0
+300,48,Zarra,1,0
+301,12,Carapellese,1,0
+301,62,Pandolfini,2,0
+302,14,MÃ­guez,1,0
+302,18,Vidal,2,0
+302,23,Schiaffino,3,0
+302,40,MÃ­guez,4,0
+302,51,MÃ­guez,5,0
+302,54,Schiaffino,6,0
+302,73,J. PÃ©rez,7,0
+302,83,Ghiggia,8,0
+303,10,Bader,1,0
+303,44,Antenen,2,0
+303,89,CasarÃ­n,2,1
+304,16,Robledo,1,0
+304,32,Riera,2,0
+304,47,Wallace,2,1
+304,48,Maca [p.],2,2
+304,54,Cremaschi,3,2
+304,60,Prieto,4,2
+304,82,Cremaschi,5,2
+305,17,Ademir,1,0
+305,36,Ademir,2,0
+305,39,Chico,3,0
+305,52,Ademir,4,0
+305,58,Ademir,5,0
+305,67,Andersson [p.],5,1
+305,85,Maneca,6,1
+305,88,Chico,7,1
+306,29,Ghiggia,1,0
+306,39,Basora,1,1
+306,41,Basora,1,2
+306,72,Varela,2,2
+307,5,PalmÃ©r,0,1
+307,39,Ghiggia,1,1
+307,40,Sundqvist,1,2
+307,77,MÃ­guez,2,2
+307,85,MÃ­guez,3,2
+308,15,Ademir,1,0
+308,21,Jair,2,0
+308,31,Chico,3,0
+308,55,Chico,4,0
+308,57,Ademir,5,0
+308,67,Zizinho,6,0
+308,71,Igoa,6,1
+309,15,Sundqvist,1,0
+309,33,Mellberg,2,0
+309,80,PalmÃ©r,3,0
+309,82,Zarra,3,1
+310,47,FriaÃ§a,0,1
+310,66,Schiaffino,1,1
+310,79,Ghiggia,2,1
+311,61,Klinsmann,1,0
+312,51,Julio Salinas,1,0
+312,55,Goikoetxea,2,0
+312,85,Hong Myung-bo,2,1
+312,90,Su Jung-won,2,2
+313,11,Houghton,0,1
+314,15,RÄducioiu,0,1
+314,34,Hagi,0,2
+314,43,Valencia,1,2
+314,89,RÄducioiu,1,3
+315,39,Bregy,0,1
+315,44,Wynalda,1,1
+316,11,Degryse,1,0
+317,84,Rekdal,1,0
+318,8,Ljung,0,1
+318,31,EmbÃ©,1,1
+318,47,Omam-Biyik,2,1
+318,75,Dahlin,2,2
+319,18,Amin,0,1
+319,50,Jonk,1,1
+319,86,Taument,2,1
+320,26,RomÃ¡rio,1,0
+320,53,RaÃ­ [p.],2,0
+321,2,Batistuta,1,0
+321,44,Batistuta,2,0
+321,60,Maradona,3,0
+321,89,Batistuta [p.],4,0
+322,14,Goikoetxea,0,1
+322,48,Klinsmann,1,1
+323,21,Yekini,1,0
+323,43,Amokachi,2,0
+323,55,Amuneke,3,0
+324,16,Sutter,0,1
+324,35,Hagi,1,1
+324,52,Chapuisat,1,2
+324,65,Knup,1,3
+324,72,Knup,1,4
+325,35,Escobar [o.g.],1,0
+325,52,Stewart,2,0
+325,90,Valencia,2,1
+326,69,D. Baggio,1,0
+328,42,Luis GarcÃ­a,1,0
+328,65,Luis GarcÃ­a,2,0
+328,84,Aldridge,2,1
+329,39,RomÃ¡rio,1,0
+329,66,MÃ¡rcio Santos,2,0
+329,73,Bebeto,3,0
+330,4,Salenko [p.],0,1
+330,37,Brolin [p.],1,1
+330,59,Dahlin,2,1
+330,81,Dahlin,3,1
+331,7,Al-Jaber [p.],1,0
+331,26,Chaouch,1,1
+331,45,Amin,2,1
+332,65,Albert,1,0
+333,8,Siasia,0,1
+333,21,Caniggia,1,1
+333,28,Caniggia,2,1
+334,5,Stoichkov [p.],1,0
+334,55,Stoichkov [p.],2,0
+334,65,Lechkov,3,0
+334,90,Borimirov,4,0
+335,44,Gaviria,0,1
+335,90,Lozano,0,2
+336,18,Petrescu,0,1
+337,19,Guardiola [p.],0,1
+337,66,Caminero,0,2
+337,67,Erwin SÃ¡nchez,1,2
+337,70,Caminero,1,3
+338,12,Klinsmann,1,0
+338,20,Riedle,2,0
+338,37,Klinsmann,3,0
+338,52,Hwang Sun-hong,3,1
+338,63,Hong Myung-bo,3,2
+339,48,Massaro,1,0
+339,57,Bernal,1,1
+341,15,Salenko,1,0
+341,41,Salenko,2,0
+341,44,Salenko [p.],3,0
+341,46,Milla,3,1
+341,72,Salenko,4,1
+341,75,Salenko,5,1
+341,81,Radchenko,6,1
+342,23,K. Andersson,0,1
+342,47,RomÃ¡rio,1,1
+343,5,Al-Owairan,0,1
+344,43,Bergkamp,0,1
+344,47,Nader,1,1
+344,77,Roy,1,2
+345,61,Stoichkov,0,1
+345,90,Sirakov,0,2
+346,45,Finidi,0,1
+346,90+,Amokachi,0,2
+347,6,VÃ¶ller,1,0
+347,8,GrÃ¼n,1,1
+347,11,Klinsmann,2,1
+347,40,VÃ¶ller,3,1
+347,90,Albert,3,2
+348,15,Hierro,1,0
+348,74,Luis Enrique,2,0
+348,86,BeguiristÃ¡in [p.],3,0
+349,6,Dahlin,0,1
+349,51,K. Andersson,0,2
+349,85,Al-Ghesheyan,1,2
+349,88,K. Andersson,1,3
+350,11,Dumitrescu,1,0
+350,16,Batistuta [p.],1,1
+350,18,Dumitrescu,2,1
+350,58,Hagi,3,1
+350,75,Balbo,3,2
+351,11,Bergkamp,1,0
+351,41,Jonk,2,0
+352,74,Bebeto,1,0
+353,25,Amuneke,1,0
+353,88,R. Baggio,1,1
+353,102,R. Baggio [p.],1,2
+354,6,Stoichkov,0,1
+354,18,GarcÃ­a Aspe [p.],1,1
+355,25,D. Baggio,1,0
+355,58,Caminero,1,1
+355,87,R. Baggio,2,1
+356,53,RomÃ¡rio,0,1
+356,63,Bebeto,0,2
+356,64,Bergkamp,1,2
+356,76,Winter,2,2
+356,81,Branco,2,3
+357,47,MatthÃ¤us [p.],0,1
+357,75,Stoichkov,1,1
+357,78,Lechkov,2,1
+358,78,Brolin,0,1
+358,88,RÄducioiu,1,1
+358,101,RÄducioiu,2,1
+358,115,K. Andersson,2,2
+359,20,R. Baggio,0,1
+359,25,R. Baggio,0,2
+359,44,Stoichkov [p.],1,2
+360,80,RomÃ¡rio,0,1
+361,8,Brolin,1,0
+361,30,Mild,2,0
+361,37,Larsson,3,0
+361,40,K. Andersson,4,0
+363,4,CÃ©sar Sampaio,1,0
+363,38,Collins [p.],1,1
+363,73,Boyd [o.g.],2,1
+364,38,Hadji,1,0
+364,45+,Chippo [o.g.],1,1
+364,59,Hadda,2,1
+364,60,Eggen,2,2
+365,10,Vieri,1,0
+365,45+,Salas,1,1
+365,49,Salas,1,2
+365,85,R. Baggio [p.],2,2
+366,78,N'Janka,1,0
+366,90+,Polster,1,1
+368,68,Rieper,0,1
+369,34,Dugarry,1,0
+369,78,Issa [o.g.],2,0
+369,90+,Henry,3,0
+370,24,Mutiu,1,1
+370,47,RaÃºl,2,1
+370,73,Zubizarreta [o.g.],2,2
+370,78,Oliseh,2,3
+371,28,Ha Suk-joo,1,0
+371,51,PelÃ¡ez,1,1
+371,74,HernÃ¡ndez,1,2
+371,84,HernÃ¡ndez,1,3
+373,28,Batistuta,1,0
+374,72,MihajloviÄ,1,0
+375,27,StaniÄ,0,1
+375,45,Earle,1,1
+375,53,ProsineÄki,1,2
+375,69,Å uker,1,3
+376,43,Shearer,1,0
+376,89,Scholes,2,0
+377,45+,Ilie,1,0
+378,8,MÃ¶ller,1,0
+378,64,Klinsmann,2,0
+379,46,H. Flo,0,1
+379,66,Burley,1,1
+380,9,Ronaldo,1,0
+380,45+,Rivaldo,2,0
+380,50,Bebeto,3,0
+381,70,Salas,1,0
+381,90+,VastiÄ,1,1
+382,7,Di Biagio,1,0
+382,75,Vieri,2,0
+382,89,Vieri,3,0
+383,13,Nielsen,0,1
+383,52,McCarthy,1,1
+384,36,Henry,1,0
+384,68,TrÃ©zÃ©guet,2,0
+384,77,Henry,3,0
+384,85,Lizarazu,4,0
+385,26,Ikpeba,1,0
+387,77,Å uker,0,1
+388,43,Wilmots,1,0
+388,47,Wilmots,2,0
+388,55,GarcÃ­a Aspe [p.],2,1
+388,62,Blanco,2,2
+389,38,Cocu,1,0
+389,42,Overmars,2,0
+389,71,Bergkamp,3,0
+389,80,Van Hooijdonk,4,0
+389,83,R. de Boer,5,0
+390,13,MijatoviÄ,0,1
+390,54,StojkoviÄ,0,2
+390,73,MihajloviÄ [o.g.],1,2
+390,80,Bierhoff,2,2
+391,31,Ortega,1,0
+391,55,Ortega,2,0
+391,72,Batistuta,3,0
+391,76,Batistuta,4,0
+391,83,Batistuta [p.],5,0
+392,40,Estili,0,1
+392,84,Mahdavikia,0,2
+392,87,McBride,1,2
+393,83,Preciado,1,0
+394,46,Moldovan,1,0
+394,83,Owen,1,1
+394,89,Petrescu,2,1
+395,20,Sierra,1,0
+395,55,M'Boma,1,1
+396,49,Vieri,1,0
+396,89,R. Baggio,2,0
+396,90+,Herzog [p.],2,1
+397,78,Bebeto,1,0
+397,83,T.A. Flo,1,1
+397,88,Rekdal [p.],1,2
+398,22,Bassir,0,1
+398,46,Hadda,0,2
+398,85,Bassir,0,3
+399,12,Djorkaeff [p.],1,0
+399,42,M. Laudrup [p.],1,1
+399,56,Petit,2,1
+400,19,Bartlett,1,0
+400,45,Al-Jaber [p.],1,1
+400,74,Al-Thunayan [p.],1,2
+400,90+,Bartlett [p.],2,2
+401,1,Ayala,0,1
+401,11,Oruma,1,1
+401,59,BenÃ­tez,1,2
+401,86,Cardozo,1,3
+402,6,Hierro [p.],1,0
+402,19,Luis Enrique,2,0
+402,55,Morientes,3,0
+402,58,Kostadinov,3,1
+402,81,Morientes,4,1
+402,88,Bachev [o.g.],5,1
+402,90+,Kiko,6,1
+403,4,Cocu,1,0
+403,18,R. de Boer,2,0
+403,75,PelÃ¡ez,2,1
+403,90+,HernÃ¡ndez,2,2
+404,7,Nilis,1,0
+404,71,Yoo Sang-chul,1,1
+405,4,KomljenoviÄ,0,1
+406,50,Bierhoff,1,0
+406,57,Klinsmann,2,0
+407,36,Pineda,1,0
+408,39,Whitmore,0,1
+408,54,Whitmore,0,2
+408,74,Nakayama,1,2
+409,20,Anderton,0,1
+409,29,Beckham,0,2
+410,10,Souayah [p.],0,1
+410,72,Moldovan,1,1
+411,18,Vieri,1,0
+412,11,CÃ©sar Sampaio,1,0
+412,27,CÃ©sar Sampaio,2,0
+412,45+,Ronaldo [p.],3,0
+412,68,Salas,3,1
+412,70,Ronaldo,4,1
+413,113,Blanc [Golden Goal],1,0
+414,3,MÃ¸ller,0,1
+414,12,B. Laudrup,0,2
+414,60,Sand,0,3
+414,76,Helveg,0,4
+414,78,Babangida,1,4
+415,47,HernÃ¡ndez,0,1
+415,75,Klinsmann,1,1
+415,86,Bierhoff,2,1
+416,38,Bergkamp,1,0
+416,48,KomljenoviÄ,1,1
+416,90+,Davids,2,1
+417,45+,Å uker [p.],0,1
+418,6,Batistuta [p.],1,0
+418,10,Shearer [p.],1,1
+418,16,Owen,1,2
+418,45+,Zanetti,2,2
+420,2,JÃ¸rgensen,0,1
+420,11,Bebeto,1,1
+420,27,Rivaldo,2,1
+420,50,B. Laudrup,2,2
+420,60,Rivaldo,3,2
+421,12,Kluivert,1,0
+421,17,Claudio LÃ³pez,1,1
+421,89,Bergkamp,2,1
+422,45+,Jarni,0,1
+422,80,VlaoviÄ,0,2
+422,85,Å uker,0,3
+423,46,Ronaldo,1,0
+423,87,Kluivert,1,1
+424,46,Å uker,0,1
+424,47,Thuram,1,1
+424,69,Thuram,2,1
+425,13,ProsineÄki,1,0
+425,21,Zenden,1,1
+425,35,Å uker,2,1
+426,27,Zidane,1,0
+426,45+,Zidane,2,0
+426,90+,Petit,3,0
+427,67,Omam-Biyik,0,1
+428,42,LÄcÄtuÅ,0,1
+428,57,LÄcÄtuÅ [p.],0,2
+429,50,RedÃ­n,0,1
+429,85,Valderrama,0,2
+430,78,Schillaci,1,0
+431,25,SkuhravÃ½,0,1
+431,39,BÃ­lek [p.],0,2
+431,50,HaÅ¡ek,0,3
+431,61,Caligiuri,1,3
+431,78,SkuhravÃ½,1,4
+431,90+,LuhovÃ½,1,5
+432,40,Careca,1,0
+432,63,Careca,2,0
+432,79,Brolin,2,1
+433,28,MatthÃ¤us,1,0
+433,39,Klinsmann,2,0
+433,55,JoziÄ,2,1
+433,65,MatthÃ¤us,3,1
+433,71,VÃ¶ller,4,1
+434,49,Cayasso,1,0
+435,8,Lineker,1,0
+435,73,Sheedy,1,1
+436,53,Degryse,1,0
+436,64,De Wolf,2,0
+437,58,Kieft,1,0
+437,83,Abdelghani [p.],1,1
+439,27,Troglio,1,0
+439,79,Burruchaga,2,0
+440,76,Milla,1,0
+440,86,Milla,2,0
+440,88,Balint,2,1
+441,75,JoziÄ,1,0
+442,11,Giannini,1,0
+443,30,BÃ­lek [p.],0,1
+444,35,VÃ¶ller,1,0
+444,36,Klinsmann,2,0
+444,46,Khalid Mubarak,2,1
+444,47,MatthÃ¤us,3,1
+444,59,Bein,4,1
+444,75,VÃ¶ller,5,1
+445,33,MÃ¼ller,1,0
+447,10,McCall,0,1
+447,80,Johnston [p.],0,2
+447,86,StrÃ¶mberg,1,2
+448,22,MÃ­chel,0,1
+448,42,Hwang Bo-kwan,1,1
+448,61,MÃ­chel,1,2
+448,81,MÃ­chel,1,3
+449,15,Clijsters,1,0
+449,22,Scifo,2,0
+449,46,Ceulemans,3,0
+449,72,Bengoechea,3,1
+451,20,Protasov,0,1
+451,29,Zygmantovich,0,2
+451,52,Zavarov,0,3
+451,63,Dobrovolâskij,0,4
+452,63,MonzÃ³n,1,0
+452,68,Balint,1,1
+453,88,Littbarski,1,0
+453,90+,RincÃ³n,1,1
+454,5,SuÅ¡iÄ,1,0
+454,9,PanÄev,2,0
+454,22,Jumaâa,2,1
+454,46,PanÄev,3,1
+454,90+,ProsineÄki,4,1
+455,49,Ogris,1,0
+455,63,Rodax,2,0
+455,84,Murray,2,1
+456,9,Schillaci,1,0
+456,78,Baggio,2,0
+457,82,MÃ¼ller,1,0
+458,32,EkstrÃ¶m,1,0
+458,75,Flores,1,1
+458,88,Medford,1,2
+459,90+,Fonseca,0,1
+460,25,MÃ­chel [p.],0,1
+460,30,Vervoort,1,1
+460,38,GÃ³rriz,1,2
+461,58,Wright,1,0
+462,10,Gullit,0,1
+462,71,Quinn,1,1
+463,106,Milla,1,0
+463,109,Milla,2,0
+463,115,RedÃ­n,2,1
+464,12,SkuhravÃ½,1,0
+464,55,GonzÃ¡lez,1,1
+464,63,SkuhravÃ½,2,1
+464,76,KubÃ­k,3,1
+464,82,SkuhravÃ½,4,1
+465,80,Caniggia,0,1
+466,51,Klinsmann,1,0
+466,85,Brehme,2,0
+466,89,R. Koeman [p.],2,1
+468,65,Schillaci,1,0
+468,83,Serena,2,0
+469,78,StojkoviÄ,0,1
+469,83,Julio Salinas,1,1
+469,92,StojkoviÄ,1,2
+470,119,Platt,1,0
+472,38,Schillaci,1,0
+473,25,MatthÃ¤us [p.],1,0
+474,25,Platt,1,0
+474,61,KundÃ© [p.],1,1
+474,65,EkÃ©kÃ©,1,2
+474,83,Lineker [p.],2,2
+474,105,Lineker [p.],3,2
+475,17,Schillaci,1,0
+475,67,Caniggia,1,1
+476,60,Brehme,1,0
+476,80,Lineker,1,1
+477,71,Baggio,1,0
+477,81,Platt,1,1
+477,86,Schillaci [p.],2,1
+478,85,Brehme [p.],1,0
+480,1,Lacombe,0,1
+480,29,Rossi,1,1
+480,54,Zaccarelli,2,1
+481,45,VÃ¡zquez Ayala [p.],0,1
+481,55,Kaabi,1,1
+481,79,Ghommidh,2,1
+481,87,Dhouib,3,1
+482,10,CsapÃ³,0,1
+482,15,Luque,1,1
+482,83,Bertoni,2,1
+483,10,Schachner,1,0
+483,21,Dani,1,1
+483,79,Krankl,2,1
+484,37,SjÃ¶berg,1,0
+484,45,Reinaldo,1,1
+485,14,Jordan,0,1
+485,43,Cueto,1,1
+485,72,Cubillas,2,1
+485,77,Cubillas,3,1
+486,40,Rensenbrink [p.],1,0
+486,62,Rensenbrink,2,0
+486,79,Rensenbrink [p.],3,0
+487,34,Rossi,1,0
+487,36,Bettega,2,0
+487,60,Benetti,3,0
+487,81,A. TÃ³th [p.],3,1
+488,15,D. MÃ¼ller,1,0
+488,30,H. MÃ¼ller,2,0
+488,38,Rummenigge,3,0
+488,44,Flohe,4,0
+488,73,Rummenigge,5,0
+488,89,Flohe,6,0
+489,43,Lato,1,0
+490,45+,Passarella [p.],1,0
+490,60,Platini,1,1
+490,73,Luque,2,1
+491,44,Krankl [p.],1,0
+493,43,Eskandarian [o.g.],1,0
+493,60,Danaei-Fard,1,1
+495,22,LÃ³pez,1,0
+495,37,Berdoll,2,0
+495,41,Zombori,2,1
+495,42,Rocheteau,3,1
+497,43,Boniek,1,0
+497,52,Rangel,1,1
+497,56,Deyna,2,1
+497,84,Boniek,3,1
+498,67,Bettega,1,0
+499,75,Asensi,1,0
+500,40,Roberto Dinamite,1,0
+501,2,VelÃ¡squez,1,0
+501,36,Cubillas [p.],2,0
+501,39,Cubillas [p.],3,0
+501,41,Rowshan,3,1
+501,79,Cubillas,4,1
+502,34,Rensenbrink [p.],0,1
+502,44,Dalglish,1,1
+502,47,Gemmill [p.],2,1
+502,68,Gemmill,3,1
+502,71,Rep,3,2
+503,6,Brandts,1,0
+503,35,Rensenbrink [p.],2,0
+503,36,Rep,3,0
+503,53,Rep,4,0
+503,79,Obermayer,4,1
+503,82,W. van de Kerkhof,5,1
+505,15,Dirceu,1,0
+505,28,Dirceu,2,0
+505,73,Zico [p.],3,0
+506,16,Kempes,1,0
+506,71,Kempes,2,0
+507,65,Szarmach,1,0
+508,3,Abramczik,1,0
+508,27,Haan,1,1
+508,70,D. MÃ¼ller,2,1
+508,82,R. van de Kerkhof,2,2
+509,14,Rossi,1,0
+511,19,Rummenigge,0,1
+511,59,Vogts [o.g.],1,1
+511,66,Krankl,2,1
+511,68,HÃ¶lzenbein,2,2
+511,88,Krankl,3,2
+512,18,Brandts [o.g.],0,1
+512,50,Brandts,1,1
+512,75,Haan,2,1
+513,12,Nelinho,1,0
+513,45,Lato,1,1
+513,57,Roberto Dinamite,2,1
+513,63,Roberto Dinamite,3,1
+514,21,Kempes,1,0
+514,43,Tarantini,2,0
+514,49,Kempes,3,0
+514,50,Luque,4,0
+514,67,Houseman,5,0
+514,72,Luque,6,0
+515,38,Causio,0,1
+515,64,Nelinho,1,1
+515,72,Dirceu,2,1
+516,38,Kempes,1,0
+516,82,Nanninga,1,1
+516,105,Kempes,2,1
+516,116,Bertoni,3,1
+517,6,Lahm,1,0
+517,12,Wanchope,1,1
+517,17,Klose,2,1
+517,61,Klose,3,1
+517,73,Wanchope,3,2
+517,87,Frings,4,2
+518,24,C. Tenorio,0,1
+518,80,Delgado,0,2
+519,3,Gamarra [o.g.],1,0
+521,24,Crespo,1,0
+521,38,Saviola,2,0
+521,82,Drogba,2,1
+522,18,Robben,0,1
+523,28,Bravo,1,0
+523,36,Golmohammadi,1,1
+523,76,Bravo,2,1
+523,79,Zinha,3,1
+524,4,Pauleta,0,1
+525,26,Nakamura,0,1
+525,84,Cahill,1,1
+525,89,Cahill,2,1
+525,90+,Aloisi,3,1
+526,5,Koller,0,1
+526,36,RosickÃ½,0,2
+526,76,RosickÃ½,0,3
+527,40,Pirlo,1,0
+527,83,Iaquinta,2,0
+528,31,Mohammed Kader,0,1
+528,54,Lee Chun-soo,1,1
+528,72,Ahn Jung-hwan,2,1
+530,44,KakÃ¡,1,0
+531,13,Xabi Alonso,1,0
+531,17,Villa,2,0
+531,48,Villa [p.],3,0
+531,81,Torres,4,0
+532,23,Jaziri,1,0
+532,57,Al-Qahtani,1,1
+532,84,Al-Jaber,1,2
+532,90+,JaÃ¯di,2,2
+533,90+,Neuville,1,0
+534,8,C. Tenorio,1,0
+534,54,Delgado,2,0
+534,90+,Kaviedes,3,0
+535,83,Crouch,1,0
+535,90+,Gerrard,2,0
+536,89,Ljungberg,1,0
+537,6,Maxi RodrÃ­guez,1,0
+537,31,Cambiasso,2,0
+537,41,Maxi RodrÃ­guez,3,0
+537,78,Crespo,4,0
+537,84,TÃ©vez,5,0
+537,88,Messi,6,0
+538,23,Van Persie,1,0
+538,27,Van Nistelrooij,2,0
+538,38,B. KonÃ©,2,1
+540,63,Deco,1,0
+540,80,Cristiano Ronaldo [p.],2,0
+541,2,Gyan,0,1
+541,82,Muntari,0,2
+542,22,Gilardino,1,0
+542,27,Zaccardo [o.g.],1,1
+544,49,Adriano,1,0
+544,90,Fred,2,0
+545,9,Henry,1,0
+545,81,Park Ji-sung,1,1
+546,16,Frei,0,1
+546,88,Barnetta,0,2
+547,4,Rusol,0,1
+547,36,Rebrov,0,2
+547,46,Shevchenko,0,3
+547,84,Kalinichenko,0,4
+548,8,Mnari,0,1
+548,71,RaÃºl,1,1
+548,76,Torres,2,1
+548,90+,Torres [p.],3,1
+549,4,Klose,0,1
+549,44,Klose,0,2
+549,57,Podolski,0,3
+550,25,Ronald GÃ³mez,1,0
+550,33,Bosacki,1,1
+550,66,Bosacki,1,2
+551,34,J. Cole,0,1
+551,51,AllbÃ¤ck,1,1
+551,85,Gerrard,1,2
+551,90,Larsson,2,2
+552,25,Sancho [o.g.],1,0
+552,86,Cuevas,2,0
+553,6,Maniche,1,0
+553,24,SimÃ£o [p.],2,0
+553,29,Fonseca,2,1
+554,60,FlÃ¡vio,0,1
+554,75,Bakhtiarizadeh,1,1
+556,10,Å½igiÄ,0,1
+556,20,IliÄ,0,2
+556,37,Dindane [p.],1,2
+556,67,Dindane,2,2
+556,86,Kalou [p.],3,2
+557,26,Materazzi,0,1
+557,87,Inzaghi,0,2
+558,22,Dramani,1,0
+558,43,Dempsey,1,1
+558,45+,Appiah [p.],2,1
+559,34,Tamada,1,0
+559,45+,Ronaldo,1,1
+559,53,Juninho Pernambucano,1,2
+559,59,Gilberto,1,3
+559,81,Ronaldo,1,4
+560,2,Srna,1,0
+560,38,Moore [p.],1,1
+560,56,N. KovaÄ,2,1
+560,79,Kewell,2,2
+561,36,Juanito,0,1
+562,70,Shevchenko [p.],1,0
+563,55,Vieira,0,1
+563,61,Henry,0,2
+564,23,Senderos,1,0
+564,77,Frei,2,0
+565,4,Podolski,1,0
+565,12,Podolski,2,0
+566,6,MÃ¡rquez,0,1
+566,10,Crespo,1,1
+566,98,Maxi RodrÃ­guez,2,1
+567,60,Beckham,1,0
+568,23,Maniche,1,0
+569,90+,Totti [p.],1,0
+571,5,Ronaldo,1,0
+571,45+,Adriano,2,0
+571,84,ZÃ© Roberto,3,0
+572,28,Villa [p.],1,0
+572,41,RibÃ©ry,1,1
+572,83,Vieira,1,2
+572,90+,Zidane,1,3
+573,49,Ayala,0,1
+573,80,Klose,1,1
+574,6,Zambrotta,1,0
+574,59,Toni,2,0
+574,69,Toni,3,0
+576,57,Henry,0,1
+577,119,Grosso,0,1
+577,120+,Del Piero,0,2
+578,33,Zidane [p.],0,1
+579,56,Schweinsteiger,1,0
+579,60,Petit [o.g.],2,0
+579,78,Schweinsteiger,3,0
+579,88,Nuno Gomes,3,1
+580,7,Zidane [p.],0,1
+580,19,Materazzi,1,1
+582,23,Maneiro,1,0
+582,50,Mujica,2,0
+583,65,Hurst,1,0
+584,13,Dermendzhiev,0,1
+584,49,Bonev,0,2
+584,50,Gallardo,1,2
+584,55,Chumpitaz,2,2
+584,73,Cubillas,3,2
+585,12,Van Moer,1,0
+585,54,Van Moer,2,0
+585,79,Lambert [p.],3,0
+586,10,Domenghini,1,0
+587,11,PetrÃ¡Å¡,0,1
+587,24,Rivelino,1,1
+587,59,PelÃ©,2,1
+587,64,Jairzinho,3,1
+587,82,Jairzinho,4,1
+588,21,Houmane,0,1
+588,56,Seeler,1,1
+588,78,MÃ¼ller,2,1
+589,14,Byshovets,1,0
+589,57,Asatiani,2,0
+589,63,Byshovets,3,0
+589,76,Khmelânitskij,4,0
+589,86,Lambert,4,1
+591,3,PetrÃ¡Å¡,0,1
+591,53,Neagu,1,1
+591,78,Dumitrache [p.],2,1
+592,65,Cubillas,1,0
+592,67,Challe,2,0
+592,75,Cubillas,3,0
+593,45,Valdivia,1,0
+593,46,Valdivia,2,0
+593,58,Fragoso,3,0
+593,83,Basaguren,4,0
+594,53,Turesson,1,0
+594,56,Spiegler,1,1
+595,59,Jairzinho,1,0
+596,12,Nikodimov,0,1
+596,20,Libuda,1,1
+596,27,MÃ¼ller,2,1
+596,52,MÃ¼ller [p.],3,1
+596,70,Seeler,4,1
+596,88,MÃ¼ller,5,1
+596,89,Kolev,5,2
+597,51,Byshovets,1,0
+597,74,Byshovets,2,0
+598,90+,Grahn,1,0
+599,19,PelÃ©,1,0
+599,22,Jairzinho,2,0
+599,34,Dumitrache,2,1
+599,67,PelÃ©,3,1
+599,84,Dembrovschi,3,2
+600,19,MÃ¼ller,1,0
+600,26,MÃ¼ller,2,0
+600,39,MÃ¼ller,3,0
+600,44,Cubillas,3,1
+601,16,PeÃ±a [p.],1,0
+603,48,Clarke [p.],1,0
+604,40,Zhechev,1,0
+604,61,Mouhoub,1,1
+605,117,EspÃ¡rrago,1,0
+606,13,GonzÃ¡lez,0,1
+606,25,GuzmÃ¡n [o.g.],1,1
+606,63,Riva,2,1
+606,70,Rivera,3,1
+606,76,Riva,4,1
+607,11,Rivelino,1,0
+607,15,TostÃ£o,2,0
+607,28,Gallardo,2,1
+607,52,TostÃ£o,3,1
+607,70,Cubillas,3,2
+607,75,Jairzinho,4,2
+608,31,Mullery,0,1
+608,49,Peters,0,2
+608,68,Beckenbauer,1,2
+608,82,Seeler,2,2
+608,108,MÃ¼ller,3,2
+609,19,Cubilla,0,1
+609,44,Clodoaldo,1,1
+609,76,Jairzinho,2,1
+609,89,Rivelino,3,1
+610,8,Boninsegna,1,0
+610,90+,Schnellinger,1,1
+610,94,MÃ¼ller,1,2
+610,98,Burgnich,2,2
+610,104,Riva,3,2
+610,110,MÃ¼ller,3,3
+610,111,Rivera,4,3
+611,26,Overath,1,0
+612,18,PelÃ©,1,0
+612,37,Boninsegna,1,1
+612,66,GÃ©rson,2,1
+612,71,Jairzinho,3,1
+612,86,Carlos Alberto,4,1
+613,55,Tshabalala,1,0
+613,79,MÃ¡rquez,1,1
+615,7,Lee Jung-soo,1,0
+615,52,Park Ji-sung,2,0
+616,6,Heinze,1,0
+617,4,Gerrard,1,0
+617,40,Dempsey,1,1
+618,79,Koren,0,1
+619,85,Gyan [p.],0,1
+620,8,Podolski,1,0
+620,26,Klose,2,0
+620,68,MÃ¼ller,3,0
+620,70,Cacau,4,0
+621,46,Agger [o.g.],1,0
+621,85,Kuijt,2,0
+622,39,Honda,1,0
+623,39,Alcaraz,0,1
+623,63,De Rossi,1,1
+624,50,Vittek,0,1
+624,90+,Reid,1,1
+626,55,Maicon,1,0
+626,72,Elano,2,0
+626,89,Ji Yoon-nam,2,1
+627,34,Beausejour,0,1
+628,52,Fernandes,0,1
+629,24,ForlÃ¡n,0,1
+629,80,ForlÃ¡n [p.],0,2
+629,90+,Ã. Pereira,0,3
+630,17,Park Joo-young [o.g.],1,0
+630,33,HiguaÃ­n,2,0
+630,45+,Lee Chung-yong,2,1
+630,76,HiguaÃ­n,3,1
+630,80,HiguaÃ­n,4,1
+631,16,Uche,0,1
+631,44,Salpingidis,1,1
+631,71,Torosidis,2,1
+632,64,HernÃ¡ndez,0,1
+632,79,Blanco [p.],0,2
+633,38,JovanoviÄ,0,1
+634,13,Birsa,1,0
+634,42,LjubijankiÄ,2,0
+634,48,Donovan,2,1
+634,82,Bradley,2,2
+636,53,Sneijder,1,0
+637,11,Holman,0,1
+637,25,Gyan [p.],1,1
+638,10,Etoâo,1,0
+638,33,Bendtner,1,1
+638,61,Rommedahl,1,2
+639,27,Vera,0,1
+639,86,Riveros,0,2
+640,7,Smeltz,0,1
+640,29,Iaquinta [p.],1,1
+641,25,LuÃ­s Fabiano,1,0
+641,50,LuÃ­s Fabiano,2,0
+641,62,Elano,3,0
+641,79,Drogba,3,1
+642,29,Raul Meireles,1,0
+642,53,SimÃ£o,2,0
+642,56,Hugo Almeida,3,0
+642,60,Tiago,4,0
+642,81,LiÃ©dson,5,0
+642,87,Cristiano Ronaldo,6,0
+642,89,Tiago,7,0
+643,75,Mark GonzÃ¡lez,1,0
+644,17,Villa,1,0
+644,51,Villa,2,0
+645,43,SuÃ¡rez,0,1
+646,20,Khumalo,0,1
+646,37,Mphela,0,2
+646,70,Malouda,1,2
+647,12,Uche,1,0
+647,38,Lee Jung-soo,1,1
+647,49,Park Joo-young,1,2
+647,69,Yakubu [p.],2,2
+648,77,Demichelis,0,1
+648,89,Palermo,0,2
+649,23,Defoe,0,1
+650,90+,Donovan,1,0
+651,60,Ãzil,0,1
+652,69,Cahill,1,0
+652,73,Holman,2,0
+652,84,PanteliÄ,2,1
+653,25,Vittek,1,0
+653,73,Vittek,2,0
+653,81,Di Natale,2,1
+653,89,KopÃºnek,3,1
+653,90+,Quagliarella,3,2
+655,17,Honda,0,1
+655,30,Endo,0,2
+655,81,Tomasson,1,2
+655,87,Okazaki,1,3
+656,36,Van Persie,0,1
+656,65,Etoâo [p.],1,1
+656,83,Huntelaar,1,2
+658,14,Yaya TourÃ©,0,1
+658,20,Romaric,0,2
+658,82,Kalou,0,3
+659,24,Villa,0,1
+659,37,Iniesta,0,2
+659,47,Millar,1,2
+661,8,SuÃ¡rez,1,0
+661,68,Lee Chung-yong,1,1
+661,80,SuÃ¡rez,2,1
+662,5,Prince Boateng,0,1
+662,62,Donovan [p.],1,1
+662,93,Gyan,1,2
+663,20,Klose,1,0
+663,32,Podolski,2,0
+663,37,Upson,2,1
+663,67,MÃ¼ller,3,1
+663,70,MÃ¼ller,4,1
+664,26,TÃ©vez,1,0
+664,33,HiguaÃ­n,2,0
+664,52,TÃ©vez,3,0
+664,71,HernÃ¡ndez,3,1
+665,18,Robben,1,0
+665,84,Sneijder,2,0
+665,90+,Vittek [p.],2,1
+666,35,Juan,1,0
+666,38,LuÃ­s Fabiano,2,0
+666,59,Robinho,3,0
+668,63,Villa,1,0
+669,10,Robinho,0,1
+669,53,Sneijder,1,1
+669,68,Sneijder,2,1
+670,45+,Muntari,0,1
+670,55,ForlÃ¡n,1,1
+671,3,MÃ¼ller,0,1
+671,68,Klose,0,2
+671,74,Friedrich,0,3
+671,89,Klose,0,4
+672,83,Villa,0,1
+673,18,Van Bronckhorst,0,1
+673,41,ForlÃ¡n,1,1
+673,70,Sneijder,1,2
+673,73,Robben,1,3
+673,90+,M. Pereira,2,3
+674,73,Puyol,0,1
+675,19,MÃ¼ller,0,1
+675,28,Cavani,1,1
+675,51,ForlÃ¡n,2,1
+675,56,Jansen,2,2
+675,82,Khedira,2,3
+676,116,Iniesta,1,0
+677,19,Zuluaga [p.],0,1
+677,56,L. Cubilla,1,1
+677,75,SasÃ­a,2,1
+678,6,WÃ¼thrich,0,1
+678,44,L. SÃ¡nchez,1,1
+678,51,RamÃ­rez,2,1
+678,55,L. SÃ¡nchez,3,1
+679,56,Zagallo,1,0
+679,73,PelÃ©,2,0
+680,4,Facundo,1,0
+681,51,Ivanov,1,0
+681,83,Ponedelânik,2,0
+683,80,Å tibrÃ¡nyi,1,0
+684,17,Tichy,1,0
+684,60,Flowers [p.],1,1
+684,71,Albert,2,1
+685,19,Cabrera,0,1
+685,25,Skoblar [p.],1,1
+685,29,GaliÄ,2,1
+685,49,JerkoviÄ,3,1
+686,73,RamÃ­rez,1,0
+686,87,Toro,2,0
+688,17,Flowers [p.],1,0
+688,42,Charlton,2,0
+688,67,Greaves,3,0
+688,81,Sanfilippo,3,1
+689,8,Ivanov,1,0
+689,10,Chislenko,2,0
+689,11,Ivanov,3,0
+689,21,Aceros,3,1
+689,56,Ponedelânik,4,1
+689,68,Coll,4,2
+689,72,Rada,4,3
+689,76,Klinger,4,4
+690,45,BrÃ¼lls,1,0
+690,59,Seeler,2,0
+690,73,Schneiter,2,1
+691,90,PeirÃ³,1,0
+692,1,Albert,1,0
+692,6,Albert,2,0
+692,8,Tichy,3,0
+692,12,Solymosi,4,0
+692,53,Albert,5,0
+692,64,Sokolov,5,1
+692,70,Tichy,6,1
+693,38,Mamykin,1,0
+693,54,SasÃ­a,1,1
+693,89,Ivanov,2,1
+694,21,Szymaniak [p.],1,0
+694,82,Seeler,2,0
+695,35,Adelardo,0,1
+695,72,Amarildo,1,1
+695,86,Amarildo,2,1
+697,20,GaliÄ,1,0
+697,25,JerkoviÄ,2,0
+697,51,GaliÄ,3,0
+697,82,MeliÄ,4,0
+697,87,JerkoviÄ,5,0
+698,1,Mora,1,0
+698,65,Bulgarelli,2,0
+698,67,Bulgarelli,3,0
+699,1,MaÅ¡ek,0,1
+699,12,DÃ­az,1,1
+699,29,Del Ãguila,2,1
+699,90,H. HernÃ¡ndez [p.],3,1
+701,11,L. SÃ¡nchez,1,0
+701,26,Chislenko,1,1
+701,29,Rojas,2,1
+702,85,RadakoviÄ,1,0
+703,31,Garrincha,1,0
+703,38,Hitchens,1,1
+703,53,VavÃ¡,2,1
+703,59,Garrincha,3,1
+704,13,Scherer,1,0
+705,9,Garrincha,1,0
+705,32,Garrincha,2,0
+705,42,Toro,2,1
+705,47,VavÃ¡,3,1
+705,61,L. SÃ¡nchez [p.],3,2
+705,78,VavÃ¡,4,2
+706,48,Kadraba,1,0
+706,69,JerkoviÄ,1,1
+706,80,Scherer,2,1
+706,84,Scherer [p.],3,1
+707,90,Rojas,1,0
+708,15,Masopust,0,1
+708,17,Amarildo,1,1
+708,69,Zito,2,1
+708,78,VavÃ¡,3,1
+710,18,Breitner,1,0
+711,58,Curran [o.g.],1,0
+711,72,Streich,2,0
+712,26,Lorimer,0,1
+712,34,Jordan,0,2
+714,9,Rep,0,1
+714,86,Rep,0,2
+715,46,Sanon,0,1
+715,52,Rivera,1,1
+715,66,Benetti,2,1
+715,79,Anastasi,3,1
+716,7,Lato,1,0
+716,8,Szarmach,2,0
+716,60,Heredia,2,1
+716,62,Lato,3,1
+716,66,Babington,3,2
+717,12,Overath,0,1
+717,34,Cullmann,0,2
+717,53,MÃ¼ller,0,3
+718,55,Hoffmann,0,1
+718,69,Ahumada,1,1
+719,8,BajeviÄ,1,0
+719,14,DÅ¾ajiÄ,2,0
+719,18,Å urjak,3,0
+719,22,Katalinski,4,0
+719,30,BajeviÄ,5,0
+719,35,BogiÄeviÄ,6,0
+719,61,Oblak,7,0
+719,65,PetkoviÄ,8,0
+719,81,BajeviÄ,9,0
+722,75,Bonev,1,0
+722,87,Pavoni,1,1
+723,17,Lato,0,1
+723,18,Deyna,0,2
+723,30,Szarmach,0,3
+723,31,GorgoÅ,0,4
+723,34,Szarmach,0,5
+723,50,Szarmach,0,6
+723,87,Lato,0,7
+724,19,Houseman,1,0
+724,35,Perfumo [o.g.],1,1
+726,12,Jairzinho,0,1
+726,66,Rivelino,0,2
+726,79,Valdomiro,0,3
+727,81,Karasi,0,1
+727,88,Jordan,1,1
+728,77,Sparwasser,1,0
+729,5,Neeskens [p.],0,1
+729,45,Neeskens [p.],0,2
+729,71,Rep,0,3
+729,78,Krol [o.g.],1,3
+729,88,De Jong,1,4
+730,46,EdstrÃ¶m,1,0
+730,74,Sandberg,2,0
+730,77,EdstrÃ¶m,3,0
+731,15,Yazalde,1,0
+731,18,Houseman,2,0
+731,55,Ayala,3,0
+731,63,Sanon,3,1
+731,68,Yazalde,4,1
+732,38,Szarmach,1,0
+732,45,Deyna,2,0
+732,86,Capello,2,1
+733,39,Breitner,0,1
+733,82,MÃ¼ller,0,2
+734,10,Cruijff,1,0
+734,25,Krol,2,0
+734,73,Rep,3,0
+734,90+,Cruijff,4,0
+735,60,Rivelino,1,0
+736,43,Lato,0,1
+737,7,Neeskens,0,1
+737,59,Rensenbrink,0,2
+738,32,Rivelino,0,1
+738,35,Brindisi,1,1
+738,49,Jairzinho,1,2
+739,24,Deyna [p.],1,0
+739,43,Karasi,1,1
+739,62,Lato,2,1
+740,24,EdstrÃ¶m,0,1
+740,51,Overath,1,1
+740,52,Bonhof,2,1
+740,53,Sandberg,2,2
+740,76,Grabowski,3,2
+740,89,HoeneÃ [p.],4,2
+741,76,MÃ¼ller,0,1
+742,50,Neeskens,1,0
+742,65,Cruijff,2,0
+743,14,Streich,0,1
+743,20,Houseman,1,1
+744,27,Å urjak,0,1
+744,29,EdstrÃ¶m,1,1
+744,85,Torstensson,2,1
+745,76,Lato,1,0
+746,2,Neeskens [p.],0,1
+746,25,Breitner [p.],1,1
+746,43,MÃ¼ller,2,1
+747,30,Bouba Diop,0,1
+748,39,M'Boma,0,1
+748,52,Holland,1,1
+749,45,Tomasson,0,1
+749,47,DarÃ­o RodrÃ­guez,1,1
+749,83,Tomasson,1,2
+750,20,Klose,1,0
+750,25,Klose,2,0
+750,40,Ballack,3,0
+750,45+,Jancker,4,0
+750,70,Klose,5,0
+750,73,Linke,6,0
+750,84,Bierhoff,7,0
+750,90+,Schneider,8,0
+751,63,Batistuta,1,0
+752,39,Santa Cruz,1,0
+752,55,Arce,2,0
+752,63,T. Mokoena,2,1
+752,90+,Fortune [p.],2,2
+753,24,Campbell,1,0
+753,59,Alexandersson,1,1
+754,44,RaÃºl,1,0
+754,74,ValerÃ³n,2,0
+754,82,CimirotiÄ,2,1
+754,87,Hierro [p.],3,1
+755,60,Blanco [p.],0,1
+756,45+,Hasan ÅaÅ,0,1
+756,50,Ronaldo,1,1
+756,87,Rivaldo [p.],2,1
+757,7,Vieri,1,0
+757,27,Vieri,2,0
+758,61,Ronald GÃ³mez,0,1
+758,65,Wright,0,2
+759,57,Wilmots,0,1
+759,59,Suzuki,1,1
+759,67,Inamoto,2,1
+759,75,Van der Heyden,2,2
+760,26,Hwang Sun-hong,1,0
+760,53,Yoo Sang-chul,2,0
+761,59,Titov,1,0
+761,64,Karpin [p.],2,0
+762,4,OâBrien,1,0
+762,30,Jorge Costa [o.g.],2,0
+762,36,McBride,3,0
+762,39,Beto,3,1
+762,71,Agoos [o.g.],3,2
+763,19,Klose,1,0
+763,90+,Robbie Keane,1,1
+764,16,Tomasson [p.],1,0
+764,52,Diao,1,1
+765,66,Eto'o,1,0
+767,27,Aghahowa,0,1
+767,35,Larsson,1,1
+767,63,Larsson [p.],2,1
+768,10,Puyol [o.g.],0,1
+768,53,Morientes,1,1
+768,69,Morientes,2,1
+768,83,Hierro [p.],3,1
+769,44,Beckham [p.],0,1
+770,4,Nomvethe,1,0
+771,55,Vieri,1,0
+771,73,OliÄ,1,1
+771,76,RapajiÄ,1,2
+772,15,Roberto Carlos,1,0
+772,32,Rivaldo,2,0
+772,45,Ronaldinho GaÃºcho [p.],3,0
+772,55,Ronaldo,4,0
+773,5,Delgado,0,1
+773,28,Borgetti,1,1
+773,57,Torrado,2,1
+774,56,Emre BelÃ¶zoÄlu,0,1
+774,86,Parks,1,1
+775,51,Inamoto,1,0
+776,24,Mathis,0,1
+776,78,Ahn Jung-hwan,1,1
+777,13,Wilmots,0,1
+777,17,BouzaiÃ¨ne,1,1
+778,14,Pauleta,1,0
+778,65,Pauleta,2,0
+778,77,Pauleta,3,0
+778,88,Rui Costa,4,0
+779,22,Rommedahl,1,0
+779,67,Tomasson,2,0
+780,20,Fadiga [p.],1,0
+780,26,Bouba Diop,2,0
+780,38,Bouba Diop,3,0
+780,46,Morales,3,1
+780,69,ForlÃ¡n,3,2
+780,88,Recoba [p.],3,3
+781,50,Bode,0,1
+781,79,Klose,0,2
+782,7,Robbie Keane,0,1
+782,61,Breen,0,2
+782,87,Duff,0,3
+783,59,A. Svensson,1,0
+783,88,Crespo,1,1
+785,4,RaÃºl,0,1
+785,31,McCarthy,1,1
+785,45+,Mendieta,1,2
+785,53,Radebe,2,2
+785,56,RaÃºl,2,3
+786,45+,AÄimoviÄ,1,0
+786,65,Cuevas,1,1
+786,73,Campos,1,2
+786,84,Cuevas,1,3
+787,10,Ronaldo,0,1
+787,13,Ronaldo,0,2
+787,38,EdmÃ­lson,0,3
+787,39,Wanchope,1,3
+787,56,Ronald GÃ³mez,2,3
+787,62,Rivaldo,2,4
+787,64,JÃºnior,2,5
+788,6,Hasan ÅaÅ,1,0
+788,9,BÃ¼lent,2,0
+788,85,Ãmit Davala,3,0
+789,48,MÃ©ndez,1,0
+790,34,Borgetti,1,0
+790,85,Del Piero,1,1
+791,7,Walem,1,0
+791,52,Beschastnykh,1,1
+791,78,Sonck,2,1
+791,82,Wilmots,3,1
+791,88,Sychjov,3,2
+792,48,Morishima,0,1
+792,75,H. Nakata,0,2
+793,3,Olisadebe,1,0
+793,5,KryszaÅowicz,2,0
+793,66,Marcin Å»ewÅakow,3,0
+793,83,Donovan,3,1
+794,70,Park Ji-sung,0,1
+795,88,Neuville,1,0
+796,5,Ferdinand,0,1
+796,22,Owen,0,2
+796,44,Heskey,0,3
+797,11,Larsson,1,0
+797,37,H. Camara,1,1
+797,104,H. Camara [Golden Goal],1,2
+798,8,Morientes,1,0
+798,90,Robbie Keane [p.],1,1
+799,8,McBride,0,1
+799,65,Donovan,0,2
+800,67,Rivaldo,1,0
+800,87,Ronaldo,2,0
+801,12,Ãmit Davala,0,1
+802,18,Vieri,0,1
+802,88,Sul Ki-hyun,1,1
+802,117,Ahn Jung-hwan [Golden Goal],2,1
+803,23,Owen,1,0
+803,45+,Rivaldo,1,1
+803,50,Ronaldinho GaÃºcho,2,1
+804,39,Ballack,1,0
+806,94,Ä°lhan [Golden Goal],0,1
+807,75,Ballack,1,0
+808,49,Ronaldo,1,0
+809,1,Hakan ÅÃ¼kÃ¼r,1,0
+809,9,Lee Eul-yong,1,1
+809,13,Ä°lhan,2,1
+809,32,Ä°lhan,3,1
+809,90+,Song Jong-gook,3,2
+810,67,Ronaldo,1,0
+810,79,Ronaldo,2,0
+811,15,MilutinoviÄ,1,0
+812,23,Baltazar,1,0
+812,30,Didi,2,0
+812,34,Pinga,3,0
+812,43,Pinga,4,0
+812,69,Julinho,5,0
+813,33,Probst,1,0
+814,72,MÃ­guez,1,0
+814,81,Schiaffino,2,0
+815,18,Ballaman,1,0
+815,44,Boniperti,1,1
+815,78,HÃ¼gi,2,1
+816,12,PuskÃ¡s,1,0
+816,18,Lantos,2,0
+816,24,Kocsis,3,0
+816,36,Kocsis,4,0
+816,50,Kocsis,5,0
+816,59,Czibor,6,0
+816,75,PalotÃ¡s,7,0
+816,83,PalotÃ¡s,8,0
+816,89,PuskÃ¡s,9,0
+817,2,Suat,0,1
+817,14,SchÃ¤fer,1,1
+817,52,Klodt,2,1
+817,60,O. Walter,3,1
+817,84,Morlock,4,1
+818,4,Anoul,0,1
+818,25,Broadis,1,1
+818,37,Lofthouse,2,1
+818,62,Broadis,3,1
+818,74,Anoul,3,2
+818,77,Coppens,3,3
+818,91,Lofthouse,4,3
+818,93,Dickinson [o.g.],4,4
+819,17,Borges,1,0
+819,30,MÃ­guez,2,0
+819,47,Borges,3,0
+819,54,Abbadie,4,0
+819,57,Borges,5,0
+819,83,MÃ­guez,6,0
+819,85,Abbadie,7,0
+820,48,Zebec,0,1
+820,69,Didi,1,1
+821,2,Stojaspal,1,0
+821,4,Probst,2,0
+821,21,Probst,3,0
+821,24,Probst,4,0
+821,65,Stojaspal,5,0
+822,19,Vincent,1,0
+822,49,CÃ¡rdenas [o.g.],2,0
+822,54,Lamadrid,2,1
+822,85,BalcÃ¡zar,2,2
+822,88,Kopa [p.],3,2
+823,3,Kocsis,1,0
+823,17,PuskÃ¡s,2,0
+823,21,Kocsis,3,0
+823,25,Pfaff,3,1
+823,50,Hidegkuti,4,1
+823,54,Hidegkuti,5,1
+823,67,Kocsis,6,1
+823,73,J. TÃ³th,7,1
+823,77,Rahn,7,2
+823,78,Kocsis,8,2
+823,81,Herrmann,8,3
+824,10,Suat,1,0
+824,24,Lefter,2,0
+824,30,Suat,3,0
+824,37,Burhan,4,0
+824,64,Burhan,5,0
+824,70,Burhan,6,0
+824,76,Erol,7,0
+825,41,Pandolfini [p.],1,0
+825,48,Galli,2,0
+825,58,Frignani,3,0
+825,78,Lorenzi,4,0
+825,81,Anoul,4,1
+826,43,Mullen,1,0
+826,69,Wilshaw,2,0
+827,7,O. Walter,1,0
+827,12,SchÃ¤fer,2,0
+827,17,Mustafa,2,1
+827,31,Morlock,3,1
+827,62,Morlock,4,1
+827,63,F. Walter,5,1
+827,77,Morlock,6,1
+827,79,SchÃ¤fer,7,1
+827,82,Lefter,7,2
+828,14,HÃ¼gi,1,0
+828,48,Ballaman,2,0
+828,67,Nesti,2,1
+828,85,HÃ¼gi,3,1
+828,90,Fatton,4,1
+829,5,Borges,1,0
+829,16,Lofthouse,1,1
+829,39,Varela,2,1
+829,46,Schiaffino,3,1
+829,67,Finney,3,2
+829,78,Ambrois,4,2
+830,16,Ballaman,0,1
+830,17,HÃ¼gi,0,2
+830,18,HÃ¼gi,0,3
+830,25,Wagner,1,3
+830,26,A. KÃ¶rner,2,3
+830,28,Wagner,3,3
+830,32,Ocwirk,4,3
+830,34,A. KÃ¶rner,5,3
+830,36,Ballaman,5,4
+830,54,Wagner,6,4
+830,60,HÃ¼gi,6,5
+830,77,Probst,7,5
+831,4,Hidegkuti,1,0
+831,7,Kocsis,2,0
+831,18,Djalma Santos [p.],2,1
+831,60,Lantos [p.],3,1
+831,65,Julinho,3,2
+831,88,Kocsis,4,2
+832,9,Horvat [o.g.],1,0
+832,85,Rahn,2,0
+833,12,Czibor,1,0
+833,47,Hidegkuti,2,0
+833,75,Hohberg,2,1
+833,86,Hohberg,2,2
+833,111,Kocsis,3,2
+833,116,Kocsis,4,2
+834,31,SchÃ¤fer,1,0
+834,47,Morlock,2,0
+834,51,Probst,2,1
+834,54,F. Walter [p.],3,1
+834,61,O. Walter,4,1
+834,64,F. Walter [p.],5,1
+834,89,O. Walter,6,1
+835,16,Stojaspal [p.],1,0
+835,22,Hohberg,1,1
+835,59,Cruz [o.g.],2,1
+835,79,Ocwirk,3,1
+836,6,PuskÃ¡s,0,1
+836,8,Czibor,0,2
+836,10,Morlock,1,2
+836,18,Rahn,2,2
+836,84,Rahn,3,2
