@@ -14,9 +14,13 @@ Tuesday/Thursday: 6:30pm - 9:30pm
 
 **Office hours:** 
 
-TBD
+Tue/Thurs: 5:30pm - 6:30pm (right before class)
 
-All courses / office hours will be held in the student center at GA, 225 Bush Street
+Wed: 6pm - 8pm
+
+Sat: 10am - 12pm
+
+All courses / office hours will be held at GA, 225 Bush Street
 
 **[Course Project Information](project.md)**
 
@@ -26,14 +30,14 @@ All courses / office hours will be held in the student center at GA, 225 Bush St
 Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
 10/4: Introduction / Expectations / Intro to Data Science | 10/6: Pandas
-10/11: 10/13: APIs / Web Scraping 101 | 10/15: Intro to Machine Learning / KNN | | HW 1 Assigned (W)
-10/18: Model Evaluation / Linear Regression Part 1 | 10/20: Linear Regression Part 2 / Logistic Regression | Three Potential Project Ideas (W) | 
-10/25: Natural Language Processing | 10/27: Naive Bayes Classification  ||HW 1 Due (W)
+10/11: APIs / Web Scraping 101 | 10/13: Intro to Machine Learning / KNN | | HW 1 Assigned (Th)
+10/18: Model Evaluation / Linear Regression Part 1 | 10/20: Linear Regression Part 2 / Logistic Regression | Three Potential Project Ideas (Th) | 
+10/25: Natural Language Processing | 10/27: Naive Bayes Classification  ||HW 1 Due (Th)
 11/1: Advanced Sklearn (Pipeline and Feaure Unions) | 11/3: Review || 
-11/8: Decision Trees  | 11/10: Ensembling Techniques | |HW 2 Assigned (W)
-11/15: Dimension Reduction | 11/17: Clustering / Topic Modelling | First Draft Due (W) | 
-11/22: Stochastic Gradient Descent | 11/23: No Class | Peer Review Due (M)
-11/29: Neural Networks / Deep Learning | 12/1  Recommendation Engines ||HW 2 Due (W)
+11/8: Decision Trees  | 11/10: Ensembling Techniques | |HW 2 Assigned (Th)
+11/15: Dimension Reduction | 11/17: Clustering / Topic Modelling | First Draft Due (Th) | 
+11/22: Stochastic Gradient Descent | 11/23: No Class | Peer Review Due (T)
+11/29: Neural Networks / Deep Learning | 12/1: Recommendation Engines ||HW 2 Due (Th)
 | 12/6: Web Development with Flask | 12/8: Projects |
 12/13: Projects |  | |
 
@@ -113,3 +117,31 @@ Homework
 	* We will be examining What people are really looking for in a data scientist..
 	
 * We will continue to use pandas to investigate missing values in data and have a sense of how to deal with them
+
+### Class 3: APIs / Web Scraping 101
+
+####Agenda
+
+* To install tweepy please type into your console `pip install tweepy`
+* Slides on Getting Data [here](slides/03_getting_data.pdf)
+* Intro to Regular Expressions [here](notebooks/03_regex_example.ipynb)
+* Getting Data from the open web [here](notebooks/03_getting_data_from_web.ipynb)
+* Getting Data from an API [here](notebooks/03_getting_data_from_api.ipynb)
+* LAB on getting data [here](labs/03_getting_data_lab.ipynb)
+
+####Homework
+* The first homework will be assigned by tomorrow morning (in a homework folder) and it is due in two Wednesdays (8/31)
+	* It is a combo of pandas question with a bit of API/scraping
+	* Please push your completed work to your sfdat26_work repo for grading
+* Your [first project milestone](project.md) is due next Wednesday. It is the first three ideas you have for your project. Think about potential interesting sources of data you would like to work with. This can come from work, hobby, or elsewhere!
+
+####Resources:
+
+* [Mashape](https://www.mashape.com/) allows you to explore tons of different APIs. Alternatively, a Python API wrapper is available for many popular APIs.
+* [The Data Science Toolkit](http://www.datasciencetoolkit.org/) is a collection of location-based and text-related APIs.
+* [API Integration in Python](https://realpython.com/blog/python/api-integration-in-python/) provides a very readable introduction to REST APIs.
+* [Microsoft's Face Detection API](https://www.microsoft.com/cognitive-services/en-us/face-api#detection), which powers [How-Old.net](https://how-old.net/), is a great example of how a machine learning API can be leveraged to produce a compelling web application.
+Web Scraping Resources:
+* For a much longer web scraping tutorial covering Beautiful Soup, lxml, XPath, and Selenium, watch [Web Scraping with Python](https://www.youtube.com/watch?v=p1iX0uxM1w8) (3 hours 23 minutes) from PyCon 2014. The slides and code are also available.
+* [import.io](https://www.import.io/) and [Kimono](https://www.kimonolabs.com/) claim to allow you to scrape websites without writing any code. Its alrighhhtttttt
+* [How a Math Genius Hacked OkCupid](http://www.wired.com/2014/01/how-to-hack-okcupid/all/) to Find True Love and [How Netflix Reverse Engineered](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/?single_page=true) Hollywood are two fun examples of how web scraping has been used to build interesting datasets.

@@ -44,7 +44,7 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### August 24 (Mandatory): Three potential Questions
+### October 20 (Mandatory): Three potential Questions
 
 What are three potential questions you would like to try and answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose these topics? Upload this as a **MARKDOWN** file in your sfdat26_work repo. Keep in mind these might not be your final questions, but I want you to start thinking as soon as possible. If you know exactly what you want to do and don't want to icnlude two other ideas, **please still try to think of two more ideas (just in case).**
 
@@ -56,7 +56,7 @@ Example:
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
 
-### Sept 21 (Mandatory): FIrst Draft
+### November 11 (Mandatory): First Draft
 
 Zip up all files relevant to your project, and upload to sfdat26_work repo. Your peers and instructors will provide feedback.
 
@@ -80,6 +80,6 @@ Tips for success:
 * If your reviewers can actually run your code on the provided data, they will be able to give you more useful feedback on your code. (It can be very hard to make useful code suggestions on code that can't be run!)
 
 
-### Oct 17th and 19th: Presentations
+### Dec 8th and 13th: Presentations
 
 Deliver your project presentation in class, and submit all required deliverables (paper, slides, code, data, and data dictionary).
