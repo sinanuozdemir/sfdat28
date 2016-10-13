@@ -130,10 +130,10 @@ Homework
 * LAB on getting data [here](labs/03_getting_data_lab.ipynb)
 
 ####Homework
-* The first homework will be assigned by tomorrow morning (in a homework folder) and it is due in two Wednesdays (8/31)
+* The first homework will be assigned by Friday morning (in a homework folder) and it is due in two Thursdays 
 	* It is a combo of pandas question with a bit of API/scraping
-	* Please push your completed work to your sfdat26_work repo for grading
-* Your [first project milestone](project.md) is due next Wednesday. It is the first three ideas you have for your project. Think about potential interesting sources of data you would like to work with. This can come from work, hobby, or elsewhere!
+	* Please push your completed work to your sfdat28_work repo for grading
+* Your [first project milestone](project.md) is due next Thursday. It is the first three ideas you have for your project. Think about potential interesting sources of data you would like to work with. This can come from work, hobby, or elsewhere!
 
 ####Resources:
 
@@ -145,3 +145,44 @@ Web Scraping Resources:
 * For a much longer web scraping tutorial covering Beautiful Soup, lxml, XPath, and Selenium, watch [Web Scraping with Python](https://www.youtube.com/watch?v=p1iX0uxM1w8) (3 hours 23 minutes) from PyCon 2014. The slides and code are also available.
 * [import.io](https://www.import.io/) and [Kimono](https://www.kimonolabs.com/) claim to allow you to scrape websites without writing any code. Its alrighhhtttttt
 * [How a Math Genius Hacked OkCupid](http://www.wired.com/2014/01/how-to-hack-okcupid/all/) to Find True Love and [How Netflix Reverse Engineered](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/?single_page=true) Hollywood are two fun examples of how web scraping has been used to build interesting datasets.
+
+
+### Class 4: Intro to Machine Learning / KNN
+
+####Agenda
+
+* Iris pre-work [code](notebooks/04_iris_prework.ipynb)
+	* Using numpy to investigate the iris dataset further
+	* Understanding how humans learn so that we can teach the machine!
+	* If needed, read intro to numpy [code](notebooks/04_numpy_ref.ipynb)
+		* Numerical Python, code adapted from tutorial [here](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
+		* Special attention to the idea of the np.array
+
+* Intro to Machine Learning and KNN [slides](slides/04_ml_knn.pdf)
+	* Supervised vs Unsupervised Learning
+	* Regression vs. Classification
+
+* [Lab](labs/04_knn_lab.ipynb) to use KNN models to investigate accelerometer data
+
+
+####Homework
+
+* The one page project milestone as well as the pandas homework! [See requirements here](project.md)
+* Read this excellent article, [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html), and be prepared to discuss it in class on Wednesday. (You can ignore sections 4.2 and 4.3.) Here are some questions to think about while you read:
+    * In the Party Registration example, what are the features? What is the response? Is this a regression or classification problem?
+    * In the interactive visualization, try using different values for K across different sets of training data. What value of K do you think is "best"? How do you define "best"?
+    * In the visualization, what do the lighter colors versus the darker colors mean? How is the darkness calculated?
+    * How does the choice of K affect model bias? How about variance?
+    * As you experiment with K and generate new training data, how can you "see" high versus low variance? How can you "see" high versus low bias?
+    * Why should we care about variance at all? Shouldn't we just minimize bias and ignore variance?
+    * Does a high value for K cause over-fitting or under-fitting?
+* For our talk on linear regression, read:
+	* This [explanation](http://blog.minitab.com/blog/adventures-in-statistics/how-to-correctly-interpret-p-values) of p values
+	* [Correlation does not imply Causation](http://tylervigen.com/spurious-correlations)
+	* [P-values can't always be trusted](http://fivethirtyeight.com/features/science-isnt-broken/#part2)
+	
+    
+**Resources:**
+
+* For a more in-depth look at machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+* Stackoverflow article on the difference between generative and discriminative models [here](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
