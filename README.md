@@ -246,7 +246,7 @@ Web Scraping Resources:
 
 **Homework:**
 
-* Homework due in **2 days!!!!**
+* Homework due in **7 days!!!!**
 
 * If you aren't yet comfortable with all of the confusion matrix terminology, watch Rahul Patwari's videos on [Intuitive sensitivity and specificity](https://www.youtube.com/watch?v=U4_3fditnWg) (9 minutes) and [The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo) (13 minutes).
 
