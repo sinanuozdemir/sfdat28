@@ -258,3 +258,45 @@ Web Scraping Resources:
 * The scikit-learn documentation has a nice [explanation](http://scikit-learn.org/stable/modules/calibration.html) of what it means for a predicted probability to be calibrated.
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html) is a very nice comparison of four classifiers we cover in the course (logistic regression, decision trees, KNN, Naive Bayes) and one classifier we do not cover (Support Vector Machines).
 * This [simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) may be useful to you as a reference.
+
+
+##Class 7: Natural Language Processing
+
+
+**pre-work**
+
+* Download all of the NLTK collections.
+   * In Python, use the following commands to bring up the download menu.
+   * ```import nltk```
+   * ```nltk.download()```
+   * Choose "all".
+   * Alternatively, just type ```nltk.download('all')```
+* Install two new packages: ```yahoo_finance```,  ```textblob```.
+   * Open a terminal or command prompt.
+   * Type ```pip install yahoo_finance``` ```pip install textblob```.
+ 
+
+
+**Agenda**
+
+* Quick recap of what we've done so far
+* Logistic regression con't [notebook](notebooks/06_logistic_regression.ipynb) and [slides](slides/06_logistic_regression.pdf) 
+	* Confusion matrix [slides](slides/06_confusion_matrix.pdf)
+
+* Naural Language Processing is the science of turning words and sentences into data and numbers. Today we will be exploring techniques into this field
+* [code](notebooks/07_nlp.ipynb) showing topics in NLP
+* [lab](labs/07_nlp_lab.ipynb) analyzing tweets about the stock market
+
+
+**Homework:**
+
+* Read Paul Graham's [A Plan for Spam](http://www.paulgraham.com/spam.html) and be prepared to **discuss it in class on Tursday!**. Here are some questions to think about while you read:
+    * Should a spam filter optimize for sensitivity or specificity, in Paul's opinion?
+    * Before he tried the "statistical approach" to spam filtering, what was his approach?
+    * How exactly does his statistical filtering system work?
+    * What did Paul say were some of the benefits of the statistical approach?
+    * How good was his prediction of the "spam of the future"?
+* Below are the foundational topics upon which Wednesday's class will depend. Please review these materials before class:
+    * **Confusion matrix:** [a good guide](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+    * **Sensitivity and specificity:** Rahul Patwari has an [excellent video](https://www.youtube.com/watch?v=U4_3fditnWg&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (9 minutes).
+    * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
