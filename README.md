@@ -32,8 +32,8 @@ Tuesday | Thursday | Project Milestone | HW
 10/4: Introduction / Expectations / Intro to Data Science | 10/6: Pandas
 10/11: APIs / Web Scraping 101 | 10/13: Intro to Machine Learning / KNN | | HW 1 Assigned (Th)
 10/18: Model Evaluation / Linear Regression Part 1 | 10/20: Linear Regression Part 2 / Logistic Regression | Three Potential Project Ideas (Th) | 
-10/25: Natural Language Processing | 10/27: Naive Bayes Classification  ||HW 1 Due (Th)
-11/1: Advanced Sklearn (Pipeline and Feaure Unions) | 11/3: Review || 
+10/25: Natural Language Processing | 10/27: NLP continued  ||HW 1 Due (Th)
+11/1: Naive Bayes Classification | 11/3: Advanced Sklearn (Pipeline and Feaure Unions) / Review || 
 11/8: Decision Trees  | 11/10: Ensembling Techniques | |HW 2 Assigned (Th)
 11/15: Dimension Reduction | 11/17: Clustering / Topic Modelling | First Draft Due (Th) | 
 11/22: Stochastic Gradient Descent | 11/23: No Class | Peer Review Due (T)
@@ -300,3 +300,24 @@ Web Scraping Resources:
     * **Confusion matrix:** [a good guide](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
     * **Sensitivity and specificity:** Rahul Patwari has an [excellent video](https://www.youtube.com/watch?v=U4_3fditnWg&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (9 minutes).
     * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
+
+##Class 9: Naive Bayes Classifier
+
+Today we are going over advanced metrics for classification models and learning a brand new classification model called naive bayes!
+
+**Agenda**
+
+* Are you smart enough to work at [Facebook?](https://www.glassdoor.com/Interview/You-re-about-to-get-on-a-plane-to-Seattle-You-want-to-know-if-you-should-bring-an-umbrella-You-call-3-random-friends-of-y-QTN_519262.htm)
+* Learn about Naive Bayes and ROC/AUC curves 
+	* 	Slides [here](slides/09_naive_bayes_roc_auc.pdf)
+	* 	Code [here](notebooks/09_naive_bayes_roc_auc.ipynb)
+	* In the code file above we will create our own spam classifier!
+* Work on Homework / previous labs
+
+
+**Resources**
+
+* Bayes Theorem as applied to Monty Hall [here](https://www.quora.com/How-do-I-solve-the-Monty-Hall-Problem-using-Bayes-Theorem) and [here](http://angrystatistician.blogspot.com/2012/06/bayes-solution-to-monty-hall.html)
+* Video on [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (12 minutes).
+* My good buddy's [blog post about the ROC video](http://www.dataschool.io/roc-curves-and-auc-explained/) includes the complete transcript and screenshots, in case you learn better by reading instead of watching.
+* Accuracy vs AUC discussions [here](http://stats.stackexchange.com/questions/32139/roc-vs-accuracy) and [here](http://datascience.stackexchange.com/questions/806/advantages-of-auc-vs-standard-accuracy)
