@@ -333,6 +333,8 @@ Today we are going to talk about four major things as related to advanced sklear
 * We can use [Feature Unions](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html) to combine several feature extraction techniques
 * More on [StandardScalar](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) as well
 * Find the notebook [here](notebooks/10_advanced_sklearn.ipynb)!
+ 
+###Review
+
 * Review on the board
-* Review part deux ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat26/blob/master/notebooks/10_review.ipynb))
-* LAB -- Kaggle competition [instructions](https://www.kaggle.com/c/sf-crime)
+* Review part deux ([notebook](notebooks/10_review.ipynb))
