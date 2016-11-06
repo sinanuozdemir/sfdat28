@@ -321,3 +321,20 @@ Today we are going over advanced metrics for classification models and learning 
 * Video on [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (12 minutes).
 * My good buddy's [blog post about the ROC video](http://www.dataschool.io/roc-curves-and-auc-explained/) includes the complete transcript and screenshots, in case you learn better by reading instead of watching.
 * Accuracy vs AUC discussions [here](http://stats.stackexchange.com/questions/32139/roc-vs-accuracy) and [here](http://datascience.stackexchange.com/questions/806/advantages-of-auc-vs-standard-accuracy)
+
+##Class 10: Advanced Sklearn Modules / Review
+
+**Agenda**
+
+Today we are going to talk about four major things as related to advanced sklearn features and modules:
+
+* We will use sklearn's [Pipeline](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) feature to chain together multiple sklearn modules
+* We will look at the [Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html) module to automatically find the most effective features in our dataset
+* We can use [Feature Unions](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html) to combine several feature extraction techniques
+* More on [StandardScalar](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) as well
+* Find the notebook [here](notebooks/10_advanced_sklearn.ipynb)!
+ 
+###Review
+
+* Review on the board
+* Review part deux ([notebook](notebooks/10_review.ipynb))
