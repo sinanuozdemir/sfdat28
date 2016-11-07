@@ -1,4 +1,4 @@
-ID,Featured,%_of_Active_(7d)_Teams_with_App_Installed,Active_(7d)_Installed_Teams,%_of_Installed_Teams_Using_App,App_Active_(7d)_Teams,App_Active_(7d)_Teams_Last_Week,Net_Growth,%_Growth,New,%_New,Resurrected,Retained,%_Retention,Churned,%_Churn,Stale
+ID,Featured,Pct_of_Active_(7d)_Teams_with_App_Installed,Active_(7d)_Installed_Teams,Pct_of_Installed_Teams_Using_App,App_Active_(7d)_Teams,App_Active_(7d)_Teams_Last_Week,Net_Growth,Pct_Growth,New,Pct_New,Resurrected,Retained,Pct_Retention,Churned,Pct_Churn,Stale
 1,no,25.74,167239,29.50%,49359,45135,4224,9.40%,6839,15.20%,14117,28403,62.90%,16732,37.10%,112999
 2,no,23.38,151886,43.30%,65718,61338,4380,7.10%,4048,6.60%,13135,48535,79.10%,12803,20.90%,77256
 3,no,16.31,105937,56.00%,59309,58475,834,1.40%,1998,3.40%,5098,52213,89.30%,6262,10.70%,34088
