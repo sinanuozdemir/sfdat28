@@ -334,7 +334,12 @@ Today we are going to talk about four major things as related to advanced sklear
 * More on [StandardScalar](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) as well
 * Find the notebook [here](notebooks/10_advanced_sklearn.ipynb)!
  
-###Review
+### Review
 
 * Review on the board
 * Review part deux ([notebook](notebooks/10_review.ipynb))
+
+## Class 11: Decision Trees / Ensembling
+
+* Decision trees ([notebook](notebooks/11_decision_trees.ipynb))
+	* Bonus content deals with the algorithm behind building trees
