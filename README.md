@@ -370,3 +370,19 @@ Today we are going to talk about four major things as related to advanced sklear
 * [Large Scale Decision Forests: Lessons Learned](http://blog.siftscience.com/blog/2015/large-scale-decision-forests-lessons-learned) is an excellent post from Sift Science about their custom implementation of Random Forests.
 * [Unboxing the Random Forest Classifier](http://nerds.airbnb.com/unboxing-the-random-forest-classifier/) describes a way to interpret the inner workings of Random Forests beyond just feature importances.
 * [Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v3.pdf) is an in-depth academic analysis of Random Forests, including details of its implementation in scikit-learn.
+
+### Class 13: Dimension Reduction
+
+#### Agenda
+
+* PCA
+	* [Explained visually](http://setosa.io/ev/principal-component-analysis/)
+    * [Slides](slides/13_dimension_reduction.pdf)
+    * Code: [PCA](notebooks/13_pca.ipynb)
+
+#### Resources
+* Facial Recognition using [PCA](http://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html)
+* Layman's intro to [PCA](https://www.youtube.com/watch?v=BfTMmoDFXyE)
+* Simple PCA using [iris](http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
+* PCA step by step in [python](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+* [Sklearn](http://scikit-learn.org/stable/modules/decomposition.html) page on dimension reduction techniques including SVD
