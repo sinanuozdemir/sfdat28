@@ -386,3 +386,21 @@ Today we are going to talk about four major things as related to advanced sklear
 * Simple PCA using [iris](http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
 * PCA step by step in [python](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 * [Sklearn](http://scikit-learn.org/stable/modules/decomposition.html) page on dimension reduction techniques including SVD
+
+
+### Class 14: Clustering / Topic Modelling
+* Our three brave volunteers
+* Clustering ([slides](slides/14_clustering.pdf), [notebook](notebooks/14_clustering.ipynb))
+    * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [visualization 1](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/), [visualization 2](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+    * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+    * LAB -- Pandora [notebook](labs/14_clustering_lab.ipynb)
+
+**Homework:**
+
+* **Homework 2 is live!**
+
+#### Resources
+* [The Psychology Of Trump’s Twitter Followers](http://www.receptiviti.ai/blog/trumps-twitter-followers/)
+* Sklearn clustering example [here](http://scikit-learn.org/stable/auto_examples/text/document_clustering.html) and [here](http://scikit-learn.org/0.15/auto_examples/document_clustering.html)
+* LDA [explained](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
+* LSA [tutorial](http://mccormickml.com/2016/03/25/lsa-for-text-classification-tutorial/)
