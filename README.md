@@ -404,3 +404,24 @@ Today we are going to talk about four major things as related to advanced sklear
 * Sklearn clustering example [here](http://scikit-learn.org/stable/auto_examples/text/document_clustering.html) and [here](http://scikit-learn.org/0.15/auto_examples/document_clustering.html)
 * LDA [explained](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
 * LSA [tutorial](http://mccormickml.com/2016/03/25/lsa-for-text-classification-tutorial/)
+
+### Class 15: Stochastic Gradient Descent
+
+**Agenda**
+
+* Understand how vecotr calculus can help us minimize errors in our machine learning algorithms
+* See how batch and stochastic gradient descent are effective tools
+* notebook [here](notebooks/15_sgd.ipynb)
+
+**Resources**
+
+* Tutorial on gradient descent [here](http://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+* Another one [here](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
+
+
+**Homework**
+
+* Have a great break!
+* Install [Tensorflow](https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html#anaconda-installation) and [skflow](https://github.com/tensorflow/skflow)
+* After you have installed tensorflow, read this [intro to tensorflow](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html)
+
