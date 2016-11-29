@@ -425,3 +425,18 @@ Today we are going to talk about four major things as related to advanced sklear
 * Install [Tensorflow](https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html#anaconda-installation) and [skflow](https://github.com/tensorflow/skflow)
 * After you have installed tensorflow, read this [intro to tensorflow](https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html)
 
+### Class 16: Deep Learning / Neural Networks
+
+**Agenda**
+
+* Understand what is meant by deep learning
+* See how Tensorflow utilizes deep learning in thei neural networks
+* Slides [here](slides/16_deep_nn.pdf)
+* notebook [here](notebooks/16_deep_learning.ipynb)
+
+
+**Resources**
+
+* Blog [post](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19#.u53gezr8l) on Object Detection
+* Beginner [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html) for tensorflow
+* Directory of training in [Tensorflow](https://www.tensorflow.org/versions/r0.11/api_docs/python/train.html)
