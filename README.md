@@ -440,3 +440,19 @@ Today we are going to talk about four major things as related to advanced sklear
 * Blog [post](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19#.u53gezr8l) on Object Detection
 * Beginner [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html) for tensorflow
 * Directory of training in [Tensorflow](https://www.tensorflow.org/versions/r0.11/api_docs/python/train.html)
+
+
+### Class 17: Recommendation Engines
+
+**Agenda**
+
+* See how companies like Pandora, Spotify, and Netflix make their recommendations
+* Slides [here](slides/17_recommendation_engines.pdf)
+* notebook [here](notebooks/17_recommenders.ipynb)
+
+
+**Resources**
+
+* Website on [The Netflix Prize](http://www.netflixprize.com/)
+* Another [intro to recommendation engines](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
+* Using Kmeans to [make clusters for recommending](http://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/)
