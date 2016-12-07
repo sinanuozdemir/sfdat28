@@ -456,3 +456,59 @@ Today we are going to talk about four major things as related to advanced sklear
 * Website on [The Netflix Prize](http://www.netflixprize.com/)
 * Another [intro to recommendation engines](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 * Using Kmeans to [make clusters for recommending](http://blogs.gartner.com/martin-kihn/how-to-build-a-recommender-system-in-python/)
+
+
+### Class 18: Web Development with Flask and Heroku
+
+**Objectives**
+
+* To launch your own machine learning powered website
+
+**Agenda**
+
+* Sign up for a spot next week! [signups](https://docs.google.com/spreadsheets/d/1lGEQ6p3s7o6P2n2QhGZaH0ujrIhabh6Z7-vwYILn32Q/edit#gid=0)
+* Present our speaker on Monday
+* Tips on presentation
+	* Start with [why](http://www.presentationzen.com/presentationzen/2010/05/the-importance-of-starting-from-why.html)
+
+* Understand Web Development and how we can deploy machine learning models to the web using Flask and Heroku
+* Slides [here](slides/18_web_development.pdf)
+
+**Homework**
+
+* Work on your project!!
+* Work on your project!!
+* Work on your project!!
+* Work on your project!!
+* please
+* Work on your project!!
+
+
+
+
+### Next Steps
+
+The hardest thing to do now is to stay sharp! I have a few recommendations on next steps in order to make sure that you don't forget what we learned here! ![](https://s-media-cache-ak0.pinimg.com/originals/88/74/9d/88749d9e7fb7ef330b5e0b4ceb781cfd.jpg)
+
+* Read [my book] (https://www.amazon.com/Principles-Data-Science-Sinan-Ozdemir-ebook/dp/B01A8T8YNC) ;)
+* Always stay up to date on [Kaggle](http://kaggle.com)
+	* Try working with some other people in this class!
+	* Our Slack channel will stay around if you still want to post cool blogs, videos, etc!
+* Try implementing some of the models we learned in class on your own!
+	* Great book [Data Science From Scratch] (http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf) with [code](https://github.com/joelgrus/data-science-from-scratch)
+
+	*  Text classification with Naive Bayes from Scratch [here] (https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)
+	*  Introduction to Statistical Learning [book](http://www-bcf.usc.edu/~gareth/ISL/) Videos [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+	*  PCA by hand [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+* Take a look at the **Resources** for each class to get a deeper understanding of what we've learned. Trust me there are a lot
+* Follow data scientists on Twitter.  This will help you stay up on the latest news/models/applications/tools.
+* Read blogs to keep learning.  I really like [District Data Labs](http://districtdatalabs.silvrback.com/) and [Data Elixer](http://dataelixir.com/).
+* There are some active Python Data meetups in the area:
+	* [SF Python](http://www.meetup.com/sfpython/)
+	* [SF Data Science](http://www.meetup.com/SF-Data-Science/)
+	* [SF Data Mining](http://www.meetup.com/Data-Mining/)
+	* Request sponsorship for study groups through [GA](https://gaalumni.typeform.com/to/dGyuWb)
+	* [General GA Alumni Perks](http://generalassemb.ly/alumni)
+
+	
+Thank you all for such a wonderful time and I truly hope to stay in touch.
